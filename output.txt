@@ -1,0 +1,1284 @@
+ CUDNN_HALF=1 
+Demo
+net.optimized_memory = 0 
+mini_batch = 1, batch = 64, time_steps = 1, train = 0 
+Create CUDA-stream - 0 
+ Create cudnn-handle 0 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+
+ seen 64, trained: 102 K-images (1 Kilo-batches_64) 
+video file: v4l2src device=/dev/video0 ! video/x-raw, format= GRAY8 ! videoconvert ! appsink max-buffers=1 drop=true 
+Video stream: 160 x 120 
+Objects:
+
+
+FPS:0.0 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:1.5 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:2.6 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:3.1 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:4.4 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:5.1 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:5.6 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:5.8 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:6.6 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:6.8 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:6.9 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:7.1 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:7.2 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:7.6 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:7.7 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:7.7 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:7.8 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:7.8 	 AVG_FPS:0.0
+Objects:
+
+person: 35% 	(left_x:   41   top_y:   18   width:   52   height:   76)
+
+FPS:8.2 	 AVG_FPS:0.0
+Objects:
+
+person: 35% 	(left_x:   42   top_y:   26   width:   48   height:   44)
+
+FPS:8.2 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:8.2 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:8.2 	 AVG_FPS:0.0
+Objects:
+
+person: 25% 	(left_x:    2   top_y:   26   width:   53   height:   82)
+
+FPS:8.2 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:8.5 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:8.5 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:8.5 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:8.5 	 AVG_FPS:0.0
+Objects:
+
+person: 28% 	(left_x:   33   top_y:   31   width:   44   height:   41)
+
+FPS:8.5 	 AVG_FPS:9.2
+Objects:
+
+person: 25% 	(left_x:   17   top_y:   35   width:   76   height:   63)
+
+FPS:8.7 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:8.7 	 AVG_FPS:9.2
+Objects:
+
+person: 26% 	(left_x:   46   top_y:   33   width:   38   height:   34)
+
+FPS:8.7 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:8.6 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:8.6 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:8.7 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:8.7 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:8.7 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:8.7 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:9.2
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:9.1 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+person: 29% 	(left_x:   47   top_y:   33   width:   36   height:   67)
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+person: 44% 	(left_x:   34   top_y:   42   width:   35   height:   68)
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+person: 28% 	(left_x:   26   top_y:   39   width:   40   height:   73)
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+person: 31% 	(left_x:   37   top_y:   45   width:   30   height:   59)
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+person: 29% 	(left_x:   38   top_y:   48   width:   43   height:   54)
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+person: 79% 	(left_x:   52   top_y:   46   width:   33   height:   62)
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+person: 36% 	(left_x:   59   top_y:   45   width:   33   height:   62)
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+person: 45% 	(left_x:   54   top_y:   48   width:   42   height:   55)
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+person: 44% 	(left_x:   57   top_y:   49   width:   39   height:   53)
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+person: 34% 	(left_x:   55   top_y:   49   width:   42   height:   53)
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+person: 40% 	(left_x:   60   top_y:   43   width:   32   height:   65)
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+person: 29% 	(left_x:   61   top_y:   45   width:   30   height:   60)
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+person: 36% 	(left_x:   57   top_y:   49   width:   37   height:   53)
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+person: 57% 	(left_x:   55   top_y:   47   width:   41   height:   57)
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+person: 66% 	(left_x:   59   top_y:   43   width:   35   height:   65)
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+person: 55% 	(left_x:   61   top_y:   46   width:   31   height:   58)
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+person: 67% 	(left_x:   61   top_y:   48   width:   30   height:   56)
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+person: 65% 	(left_x:   60   top_y:   50   width:   32   height:   52)
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+person: 49% 	(left_x:   61   top_y:   47   width:   32   height:   58)
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+person: 53% 	(left_x:   61   top_y:   45   width:   33   height:   61)
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+person: 58% 	(left_x:   63   top_y:   46   width:   34   height:   59)
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+person: 69% 	(left_x:   63   top_y:   46   width:   31   height:   60)
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+person: 75% 	(left_x:   63   top_y:   44   width:   32   height:   64)
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+person: 83% 	(left_x:   64   top_y:   43   width:   31   height:   66)
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+person: 83% 	(left_x:   63   top_y:   43   width:   33   height:   67)
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+person: 83% 	(left_x:   63   top_y:   44   width:   35   height:   65)
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+person: 25% 	(left_x:   64   top_y:   46   width:   38   height:   59)
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+person: 64% 	(left_x:   62   top_y:   51   width:   42   height:   52)
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+person: 61% 	(left_x:   62   top_y:   49   width:   42   height:   55)
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+person: 53% 	(left_x:   61   top_y:   49   width:   44   height:   56)
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+person: 53% 	(left_x:   61   top_y:   46   width:   42   height:   62)
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+person: 46% 	(left_x:   60   top_y:   48   width:   42   height:   58)
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+person: 41% 	(left_x:   61   top_y:   47   width:   41   height:   60)
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+person: 48% 	(left_x:   59   top_y:   49   width:   45   height:   57)
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+person: 35% 	(left_x:   59   top_y:   46   width:   46   height:   62)
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+person: 56% 	(left_x:   61   top_y:   49   width:   41   height:   56)
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+person: 29% 	(left_x:   61   top_y:   53   width:   43   height:   47)
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+person: 39% 	(left_x:   63   top_y:   44   width:   41   height:   66)
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+person: 30% 	(left_x:   64   top_y:   48   width:   41   height:   57)
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+person: 31% 	(left_x:   74   top_y:   43   width:   28   height:   67)
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+person: 29% 	(left_x:   69   top_y:   42   width:   39   height:   70)
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+person: 33% 	(left_x:   73   top_y:   48   width:   33   height:   58)
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+person: 43% 	(left_x:   73   top_y:   49   width:   32   height:   55)
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+person: 39% 	(left_x:   73   top_y:   49   width:   34   height:   56)
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+person: 51% 	(left_x:   73   top_y:   50   width:   35   height:   53)
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+person: 60% 	(left_x:   68   top_y:   51   width:   44   height:   53)
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+person: 35% 	(left_x:   70   top_y:   52   width:   39   height:   51)
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+person: 57% 	(left_x:   71   top_y:   52   width:   39   height:   50)
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+person: 63% 	(left_x:   71   top_y:   51   width:   39   height:   53)
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+person: 46% 	(left_x:   73   top_y:   47   width:   36   height:   58)
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+person: 79% 	(left_x:   73   top_y:   50   width:   35   height:   56)
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+person: 59% 	(left_x:   73   top_y:   46   width:   38   height:   63)
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+person: 57% 	(left_x:   74   top_y:   48   width:   36   height:   60)
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+person: 51% 	(left_x:   71   top_y:   45   width:   39   height:   65)
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+person: 27% 	(left_x:   77   top_y:   44   width:   30   height:   63)
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+person: 32% 	(left_x:   76   top_y:   47   width:   35   height:   59)
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+person: 25% 	(left_x:   76   top_y:   46   width:   33   height:   61)
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+person: 30% 	(left_x:   70   top_y:   47   width:   47   height:   58)
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+person: 34% 	(left_x:   71   top_y:   53   width:   44   height:   48)
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+person: 44% 	(left_x:   73   top_y:   52   width:   42   height:   50)
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+person: 38% 	(left_x:   67   top_y:   52   width:   55   height:   48)
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+person: 26% 	(left_x:   66   top_y:   50   width:   56   height:   53)
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+person: 54% 	(left_x:   75   top_y:   47   width:   39   height:   57)
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+person: 41% 	(left_x:   75   top_y:   48   width:   38   height:   56)
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+person: 38% 	(left_x:   76   top_y:   46   width:   33   height:   59)
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+person: 34% 	(left_x:   76   top_y:   46   width:   33   height:   59)
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+person: 38% 	(left_x:   75   top_y:   46   width:   33   height:   60)
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+person: 32% 	(left_x:   75   top_y:   47   width:   35   height:   57)
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+person: 58% 	(left_x:   74   top_y:   47   width:   37   height:   58)
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+person: 41% 	(left_x:   75   top_y:   49   width:   34   height:   53)
+
+FPS:9.1 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+person: 38% 	(left_x:   76   top_y:   44   width:   32   height:   62)
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+person: 34% 	(left_x:   76   top_y:   44   width:   30   height:   63)
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+person: 44% 	(left_x:   76   top_y:   42   width:   30   height:   64)
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+person: 47% 	(left_x:   77   top_y:   45   width:   30   height:   59)
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+person: 65% 	(left_x:   77   top_y:   46   width:   30   height:   58)
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+person: 51% 	(left_x:   76   top_y:   48   width:   33   height:   56)
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+person: 46% 	(left_x:   75   top_y:   48   width:   35   height:   56)
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+person: 44% 	(left_x:   77   top_y:   47   width:   31   height:   58)
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+person: 44% 	(left_x:   79   top_y:   48   width:   28   height:   55)
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+person: 52% 	(left_x:   76   top_y:   51   width:   33   height:   51)
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+person: 46% 	(left_x:   76   top_y:   50   width:   37   height:   51)
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+person: 25% 	(left_x:   80   top_y:   45   width:   33   height:   61)
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+person: 39% 	(left_x:   84   top_y:   50   width:   38   height:   54)
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+person: 68% 	(left_x:   85   top_y:   82   width:   33   height:   31)
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.8
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.8 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:9.0 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+
+
+FPS:8.9 	 AVG_FPS:8.7
+Objects:
+

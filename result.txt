@@ -1,0 +1,5070 @@
+ Try to load cfg: ./cfg/custom-yolov4-tiny-detector.cfg, weights: custom-yolov4-tiny-detector_best.weights, clear = 0 
+net.optimized_memory = 0 
+mini_batch = 1, batch = 64, time_steps = 1, train = 0 
+Create CUDA-stream - 0 
+ Create cudnn-handle 0 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+ Try to load weights: custom-yolov4-tiny-detector_best.weights 
+
+ seen 64, trained: 102 K-images (1 Kilo-batches_64) 
+Loaded - names_list: data/obj.names, classes = 1 
+Initializing Servos
+Initializing ServoKit
+Done initializing
+FPS: 0
+Midpoint X:  348.8343811035156
+Midpoint Y:  159.7943115234375
+width range -51.165618896484375
+pan servo angle 90.72746682934269
+height range -140.2056884765625
+servo angle 118.39865792283057
+
+Objects:
+person: 94.8%    (left_x: 349   top_y:  160   width:   84   height:  195)
+FPS: 10
+Midpoint X:  347.9319152832031
+Midpoint Y:  161.26182556152344
+width range -52.068084716796875
+pan servo angle 91.60591734024706
+height range -138.73817443847656
+servo angle 117.080982156474
+
+Objects:
+person: 95.88%    (left_x: 348   top_y:  161   width:   86   height:  180)
+FPS: 0
+Midpoint X:  344.8125
+Midpoint Y:  161.44569396972656
+width range -55.1875
+pan servo angle 92.48436785115145
+height range -138.55430603027344
+servo angle 115.76330639011744
+
+Objects:
+person: 98.75%    (left_x: 345   top_y:  161   width:   92   height:  189)
+FPS: 6
+Midpoint X:  366.7721862792969
+Midpoint Y:  209.81532287597656
+width range -33.227813720703125
+height range -90.18467712402344
+servo angle 114.44563062376086
+
+Objects:
+person: 99.0%    (left_x: 367   top_y:  210   width:   105   height:  194)
+FPS: 0
+Midpoint X:  373.77203369140625
+Midpoint Y:  203.74009704589844
+width range -26.22796630859375
+height range -96.25990295410156
+servo angle 113.12795485740429
+
+Objects:
+person: 99.1%    (left_x: 374   top_y:  204   width:   102   height:  222)
+FPS: 13
+Midpoint X:  366.5393981933594
+Midpoint Y:  453.0863037109375
+width range -33.460601806640625
+height range 153.0863037109375
+servo angle 114.00640536830868
+
+Objects:
+person: 98.77%    (left_x: 367   top_y:  453   width:   132   height:  221)
+FPS: 0
+Midpoint X:  364.28741455078125
+Midpoint Y:  456.0487976074219
+width range -35.71258544921875
+height range 156.04879760742188
+servo angle 114.88485587921305
+
+Objects:
+person: 98.78%    (left_x: 364   top_y:  456   width:   121   height:  222)
+FPS: 6
+Midpoint X:  377.6988525390625
+Midpoint Y:  444.6060791015625
+width range -22.3011474609375
+height range 144.6060791015625
+servo angle 115.76330639011744
+
+Objects:
+person: 98.75%    (left_x: 378   top_y:  445   width:   122   height:  269)
+FPS: 0
+Midpoint X:  385.9327087402344
+Midpoint Y:  429.3024597167969
+width range -14.067291259765625
+height range 129.30245971679688
+servo angle 116.64175690102181
+
+Objects:
+person: 98.17%    (left_x: 386   top_y:  429   width:   110   height:  231)
+FPS: 12
+Midpoint X:  395.27178955078125
+Midpoint Y:  363.4698181152344
+width range -4.72821044921875
+height range 63.469818115234375
+servo angle 117.5202074119262
+
+Objects:
+person: 97.82%    (left_x: 395   top_y:  363   width:   101   height:  228)
+FPS: 0
+Midpoint X:  396.8030090332031
+Midpoint Y:  357.9750061035156
+width range -3.196990966796875
+height range 57.975006103515625
+servo angle 118.39865792283057
+
+Objects:
+person: 99.27%    (left_x: 397   top_y:  358   width:   109   height:  232)
+FPS: 6
+Midpoint X:  388.4656066894531
+Midpoint Y:  260.9281921386719
+width range -11.534393310546875
+height range -39.071807861328125
+servo angle 117.080982156474
+
+Objects:
+person: 99.56%    (left_x: 388   top_y:  261   width:   99   height:  213)
+FPS: 1
+Midpoint X:  389.8193359375
+Midpoint Y:  260.99493408203125
+width range -10.1806640625
+height range -39.00506591796875
+servo angle 115.76330639011744
+
+Objects:
+person: 99.53%    (left_x: 390   top_y:  261   width:   100   height:  213)
+FPS: 13
+Midpoint X:  675.3450317382812
+Midpoint Y:  283.2535705566406
+width range 275.34503173828125
+pan servo angle 91.16669208479487
+height range -16.746429443359375
+
+Objects:
+person: 98.87%    (left_x: 675   top_y:  283   width:   130   height:  204)
+FPS: 13
+Midpoint X:  672.2744750976562
+Midpoint Y:  286.0090026855469
+width range 272.27447509765625
+pan servo angle 89.84901631843832
+height range -13.990997314453125
+
+Objects:
+person: 99.54%    (left_x: 672   top_y:  286   width:   140   height:  209)
+FPS: 13
+Midpoint X:  627.411865234375
+Midpoint Y:  289.4746398925781
+width range 227.411865234375
+pan servo angle 88.53134055208174
+height range -10.525360107421875
+
+Objects:
+person: 99.36%    (left_x: 627   top_y:  289   width:   118   height:  219)
+FPS: 14
+Midpoint X:  622.3617553710938
+Midpoint Y:  291.59747314453125
+width range 222.36175537109375
+pan servo angle 87.21366478572517
+height range -8.40252685546875
+
+Objects:
+person: 98.65%    (left_x: 622   top_y:  292   width:   116   height:  222)
+FPS: 14
+Midpoint X:  620.4976196289062
+Midpoint Y:  293.5573425292969
+width range 220.49761962890625
+pan servo angle 85.89598901936861
+height range -6.442657470703125
+
+Objects:
+person: 94.12%    (left_x: 620   top_y:  294   width:   124   height:  225)
+FPS: 14
+Midpoint X:  612.4437255859375
+Midpoint Y:  306.71795654296875
+width range 212.4437255859375
+pan servo angle 84.57831325301206
+height range 6.71795654296875
+
+Objects:
+person: 96.03%    (left_x: 612   top_y:  307   width:   132   height:  212)
+FPS: 13
+Midpoint X:  609.9097900390625
+Midpoint Y:  314.9404296875
+width range 209.9097900390625
+pan servo angle 83.26063748665548
+height range 14.9404296875
+
+Objects:
+person: 97.76%    (left_x: 610   top_y:  315   width:   129   height:  192)
+FPS: 13
+Midpoint X:  601.34423828125
+Midpoint Y:  330.08990478515625
+width range 201.34423828125
+pan servo angle 81.94296172029891
+height range 30.08990478515625
+servo angle 116.64175690102181
+
+Objects:
+person: 98.92%    (left_x: 601   top_y:  330   width:   115   height:  200)
+FPS: 13
+Midpoint X:  561.87451171875
+Midpoint Y:  309.7704772949219
+width range 161.87451171875
+pan servo angle 80.62528595394235
+height range 9.770477294921875
+
+Objects:
+person: 93.88%    (left_x: 562   top_y:  310   width:   112   height:  167)
+FPS: 13
+Midpoint X:  539.5679931640625
+Midpoint Y:  327.3552551269531
+width range 139.5679931640625
+pan servo angle 79.3076101875858
+height range 27.355255126953125
+
+Objects:
+person: 99.29%    (left_x: 540   top_y:  327   width:   123   height:  204)
+FPS: 14
+Midpoint X:  508.01019287109375
+Midpoint Y:  328.4582824707031
+width range 108.01019287109375
+pan servo angle 77.98993442122922
+height range 28.458282470703125
+
+Objects:
+person: 99.02%    (left_x: 508   top_y:  328   width:   126   height:  213)
+FPS: 14
+Midpoint X:  484.6737365722656
+Midpoint Y:  330.7806091308594
+width range 84.67373657226562
+pan servo angle 76.67225865487265
+height range 30.780609130859375
+servo angle 117.5202074119262
+
+Objects:
+person: 99.17%    (left_x: 485   top_y:  331   width:   130   height:  208)
+FPS: 13
+Midpoint X:  457.40289306640625
+Midpoint Y:  330.25299072265625
+width range 57.40289306640625
+pan servo angle 75.35458288851609
+height range 30.25299072265625
+servo angle 118.39865792283057
+
+Objects:
+person: 97.16%    (left_x: 457   top_y:  330   width:   129   height:  202)
+FPS: 13
+Midpoint X:  428.22607421875
+Midpoint Y:  331.5080871582031
+width range 28.22607421875
+height range 31.508087158203125
+servo angle 119.27710843373494
+
+Objects:
+person: 96.43%    (left_x: 428   top_y:  332   width:   132   height:  198)
+FPS: 14
+Midpoint X:  408.8333740234375
+Midpoint Y:  330.7077941894531
+width range 8.8333740234375
+height range 30.707794189453125
+servo angle 120.15555894463932
+
+Objects:
+person: 98.26%    (left_x: 409   top_y:  331   width:   125   height:  204)
+FPS: 14
+Midpoint X:  385.2629699707031
+Midpoint Y:  336.2159118652344
+width range -14.737030029296875
+height range 36.215911865234375
+servo angle 121.0340094555437
+
+Objects:
+person: 97.86%    (left_x: 385   top_y:  336   width:   109   height:  198)
+FPS: 14
+Midpoint X:  362.92510986328125
+Midpoint Y:  331.5415344238281
+width range -37.07489013671875
+height range 31.541534423828125
+servo angle 121.91245996644808
+
+Objects:
+person: 95.55%    (left_x: 363   top_y:  332   width:   109   height:  220)
+FPS: 14
+Midpoint X:  348.881103515625
+Midpoint Y:  313.42034912109375
+width range -51.118896484375
+pan servo angle 76.23303339942046
+height range 13.42034912109375
+
+Objects:
+person: 84.26%    (left_x: 349   top_y:  313   width:   114   height:  229)
+FPS: 14
+Midpoint X:  347.3182373046875
+Midpoint Y:  319.5107727050781
+width range -52.6817626953125
+pan servo angle 77.11148391032485
+height range 19.510772705078125
+
+Objects:
+person: 80.04%    (left_x: 347   top_y:  320   width:   119   height:  266)
+FPS: 14
+Midpoint X:  345.6099853515625
+Midpoint Y:  308.21929931640625
+width range -54.3900146484375
+pan servo angle 77.98993442122922
+height range 8.21929931640625
+
+Objects:
+person: 83.99%    (left_x: 346   top_y:  308   width:   113   height:  204)
+FPS: 14
+Midpoint X:  335.17364501953125
+Midpoint Y:  300.38226318359375
+width range -64.82635498046875
+pan servo angle 78.86838493213361
+height range 0.38226318359375
+
+Objects:
+person: 94.46%    (left_x: 335   top_y:  300   width:   112   height:  227)
+FPS: 14
+Midpoint X:  329.3390808105469
+Midpoint Y:  306.5323486328125
+width range -70.66091918945312
+pan servo angle 79.74683544303797
+height range 6.5323486328125
+
+Objects:
+person: 97.38%    (left_x: 329   top_y:  307   width:   120   height:  211)
+FPS: 14
+Midpoint X:  333.6796875
+Midpoint Y:  326.1100769042969
+width range -66.3203125
+pan servo angle 80.62528595394235
+height range 26.110076904296875
+
+Objects:
+person: 89.13%    (left_x: 334   top_y:  326   width:   139   height:  242)
+FPS: 14
+Midpoint X:  347.8973388671875
+Midpoint Y:  328.0521545410156
+width range -52.1026611328125
+pan servo angle 81.50373646484672
+height range 28.052154541015625
+
+Objects:
+person: 98.68%    (left_x: 348   top_y:  328   width:   143   height:  238)
+FPS: 14
+Midpoint X:  348.3283386230469
+Midpoint Y:  334.13140869140625
+width range -51.671661376953125
+pan servo angle 82.38218697575111
+height range 34.13140869140625
+servo angle 122.79091047735245
+
+Objects:
+person: 99.33%    (left_x: 348   top_y:  334   width:   138   height:  245)
+FPS: 14
+Midpoint X:  346.8450927734375
+Midpoint Y:  339.66082763671875
+width range -53.1549072265625
+pan servo angle 83.26063748665548
+height range 39.66082763671875
+servo angle 123.66936098825681
+
+Objects:
+person: 99.42%    (left_x: 347   top_y:  340   width:   149   height:  230)
+FPS: 14
+Midpoint X:  347.66632080078125
+Midpoint Y:  342.3464050292969
+width range -52.33367919921875
+pan servo angle 84.13908799755986
+height range 42.346405029296875
+servo angle 124.5478114991612
+
+Objects:
+person: 97.72%    (left_x: 348   top_y:  342   width:   154   height:  235)
+FPS: 14
+Midpoint X:  348.1301574707031
+Midpoint Y:  357.7008972167969
+width range -51.869842529296875
+pan servo angle 85.01753850846424
+height range 57.700897216796875
+servo angle 125.42626201006557
+
+Objects:
+person: 98.38%    (left_x: 348   top_y:  358   width:   158   height:  251)
+FPS: 14
+Midpoint X:  359.0545349121094
+Midpoint Y:  364.3360595703125
+width range -40.945465087890625
+pan servo angle 85.89598901936861
+height range 64.3360595703125
+servo angle 126.30471252096996
+
+Objects:
+person: 98.52%    (left_x: 359   top_y:  364   width:   143   height:  288)
+FPS: 13
+Midpoint X:  362.463134765625
+Midpoint Y:  365.8592834472656
+width range -37.536865234375
+height range 65.85928344726562
+servo angle 127.18316303187433
+
+Objects:
+person: 98.35%    (left_x: 362   top_y:  366   width:   149   height:  293)
+FPS: 14
+Midpoint X:  365.7532958984375
+Midpoint Y:  346.2135925292969
+width range -34.2467041015625
+height range 46.213592529296875
+servo angle 128.0616135427787
+
+Objects:
+person: 98.86%    (left_x: 366   top_y:  346   width:   149   height:  247)
+FPS: 14
+Midpoint X:  371.54669189453125
+Midpoint Y:  338.69989013671875
+width range -28.45330810546875
+height range 38.69989013671875
+servo angle 128.94006405368307
+
+Objects:
+person: 95.43%    (left_x: 372   top_y:  339   width:   157   height:  265)
+FPS: 14
+Midpoint X:  378.2706298828125
+Midpoint Y:  333.27850341796875
+width range -21.7293701171875
+height range 33.27850341796875
+servo angle 129.81851456458747
+
+Objects:
+person: 96.97%    (left_x: 378   top_y:  333   width:   165   height:  244)
+FPS: 14
+Midpoint X:  374.9068298339844
+Midpoint Y:  328.26177978515625
+width range -25.093170166015625
+height range 28.26177978515625
+
+Objects:
+person: 94.95%    (left_x: 375   top_y:  328   width:   163   height:  256)
+FPS: 13
+Midpoint X:  374.8179016113281
+Midpoint Y:  325.5314025878906
+width range -25.182098388671875
+height range 25.531402587890625
+
+Objects:
+person: 90.73%    (left_x: 375   top_y:  326   width:   154   height:  233)
+FPS: 14
+Midpoint X:  374.3719787597656
+Midpoint Y:  314.8854064941406
+width range -25.628021240234375
+height range 14.885406494140625
+
+Objects:
+person: 93.18%    (left_x: 374   top_y:  315   width:   163   height:  298)
+FPS: 14
+Midpoint X:  372.5899353027344
+Midpoint Y:  308.8443298339844
+width range -27.410064697265625
+height range 8.844329833984375
+
+Objects:
+person: 95.89%    (left_x: 373   top_y:  309   width:   174   height:  276)
+FPS: 14
+Midpoint X:  373.0028991699219
+Midpoint Y:  309.4696044921875
+width range -26.997100830078125
+height range 9.4696044921875
+
+Objects:
+person: 97.14%    (left_x: 373   top_y:  309   width:   181   height:  284)
+FPS: 14
+Midpoint X:  373.1082763671875
+Midpoint Y:  301.1091613769531
+width range -26.8917236328125
+height range 1.109161376953125
+
+Objects:
+person: 97.09%    (left_x: 373   top_y:  301   width:   171   height:  253)
+FPS: 14
+Midpoint X:  368.28369140625
+Midpoint Y:  301.09344482421875
+width range -31.71630859375
+height range 1.09344482421875
+
+Objects:
+person: 91.04%    (left_x: 368   top_y:  301   width:   175   height:  210)
+FPS: 5
+Midpoint X:  335.55096435546875
+Midpoint Y:  219.99671936035156
+width range -64.44903564453125
+pan servo angle 86.77443953027299
+height range -80.00328063964844
+servo angle 128.5008387982309
+
+Objects:
+person: 96.15%    (left_x: 336   top_y:  220   width:   112   height:  193)
+FPS: 11
+Midpoint X:  334.6656188964844
+Midpoint Y:  222.3555450439453
+width range -65.33438110351562
+pan servo angle 87.65289004117736
+height range -77.64445495605469
+servo angle 127.18316303187433
+
+Objects:
+person: 97.72%    (left_x: 335   top_y:  222   width:   117   height:  225)
+FPS: 10
+Midpoint X:  334.2112121582031
+Midpoint Y:  220.85610961914062
+width range -65.78878784179688
+pan servo angle 88.53134055208174
+height range -79.14389038085938
+servo angle 125.86548726551776
+
+Objects:
+person: 99.07%    (left_x: 334   top_y:  221   width:   115   height:  223)
+FPS: 10
+Midpoint X:  330.8544006347656
+Midpoint Y:  215.65765380859375
+width range -69.14559936523438
+pan servo angle 89.40979106298612
+height range -84.34234619140625
+servo angle 124.5478114991612
+
+Objects:
+person: 99.57%    (left_x: 331   top_y:  216   width:   109   height:  219)
+FPS: 14
+Midpoint X:  329.616943359375
+Midpoint Y:  211.12106323242188
+width range -70.383056640625
+pan servo angle 90.2882415738905
+height range -88.87893676757812
+servo angle 123.23013573280463
+
+Objects:
+person: 99.53%    (left_x: 330   top_y:  211   width:   106   height:  208)
+FPS: 12
+Midpoint X:  336.3525390625
+Midpoint Y:  199.92214965820312
+width range -63.6474609375
+pan servo angle 91.16669208479487
+height range -100.07785034179688
+servo angle 121.91245996644808
+
+Objects:
+person: 99.48%    (left_x: 336   top_y:  200   width:   98   height:  196)
+FPS: 14
+Midpoint X:  346.81817626953125
+Midpoint Y:  205.8946990966797
+width range -53.18182373046875
+pan servo angle 92.04514259569926
+height range -94.10530090332031
+servo angle 120.59478420009151
+
+Objects:
+person: 99.18%    (left_x: 347   top_y:  206   width:   106   height:  199)
+FPS: 14
+Midpoint X:  358.3996276855469
+Midpoint Y:  232.81463623046875
+width range -41.600372314453125
+pan servo angle 92.92359310660363
+height range -67.18536376953125
+servo angle 119.27710843373494
+
+Objects:
+person: 98.04%    (left_x: 358   top_y:  233   width:   113   height:  204)
+FPS: 14
+Midpoint X:  373.1990966796875
+Midpoint Y:  237.87356567382812
+width range -26.8009033203125
+height range -62.126434326171875
+servo angle 117.95943266737838
+
+Objects:
+person: 98.39%    (left_x: 373   top_y:  238   width:   111   height:  222)
+FPS: 14
+Midpoint X:  386.02191162109375
+Midpoint Y:  264.3580627441406
+width range -13.97808837890625
+height range -35.641937255859375
+servo angle 116.64175690102181
+
+Objects:
+person: 99.28%    (left_x: 386   top_y:  264   width:   105   height:  204)
+FPS: 14
+Midpoint X:  407.8601379394531
+Midpoint Y:  284.7911682128906
+width range 7.860137939453125
+height range -15.208831787109375
+
+Objects:
+person: 98.26%    (left_x: 408   top_y:  285   width:   111   height:  200)
+FPS: 13
+Midpoint X:  425.91986083984375
+Midpoint Y:  308.0494384765625
+width range 25.91986083984375
+height range 8.0494384765625
+
+Objects:
+person: 99.36%    (left_x: 426   top_y:  308   width:   116   height:  208)
+FPS: 14
+Midpoint X:  435.53271484375
+Midpoint Y:  330.4017333984375
+width range 35.53271484375
+height range 30.4017333984375
+servo angle 117.5202074119262
+
+Objects:
+person: 98.73%    (left_x: 436   top_y:  330   width:   107   height:  215)
+FPS: 14
+Midpoint X:  435.8175354003906
+Midpoint Y:  346.9951171875
+width range 35.817535400390625
+height range 46.9951171875
+servo angle 118.39865792283057
+
+Objects:
+person: 99.2%    (left_x: 436   top_y:  347   width:   112   height:  218)
+FPS: 14
+Midpoint X:  437.0547180175781
+Midpoint Y:  348.59124755859375
+width range 37.054718017578125
+height range 48.59124755859375
+servo angle 119.27710843373494
+
+Objects:
+person: 99.67%    (left_x: 437   top_y:  349   width:   110   height:  218)
+FPS: 14
+Midpoint X:  438.4153747558594
+Midpoint Y:  346.7485046386719
+width range 38.415374755859375
+height range 46.748504638671875
+servo angle 120.15555894463932
+
+Objects:
+person: 99.67%    (left_x: 438   top_y:  347   width:   108   height:  213)
+FPS: 13
+Midpoint X:  439.2058410644531
+Midpoint Y:  345.19232177734375
+width range 39.205841064453125
+height range 45.19232177734375
+servo angle 121.0340094555437
+
+Objects:
+person: 99.56%    (left_x: 439   top_y:  345   width:   107   height:  209)
+FPS: 14
+Midpoint X:  438.53143310546875
+Midpoint Y:  345.15802001953125
+width range 38.53143310546875
+height range 45.15802001953125
+servo angle 121.91245996644808
+
+Objects:
+person: 99.34%    (left_x: 439   top_y:  345   width:   107   height:  209)
+FPS: 14
+Midpoint X:  440.640625
+Midpoint Y:  325.6661682128906
+width range 40.640625
+pan servo angle 91.60591734024706
+height range 25.666168212890625
+
+Objects:
+person: 96.31%    (left_x: 441   top_y:  326   width:   112   height:  208)
+FPS: 14
+Midpoint X:  435.94427490234375
+Midpoint Y:  305.6839294433594
+width range 35.94427490234375
+height range 5.683929443359375
+
+Objects:
+person: 99.35%    (left_x: 436   top_y:  306   width:   106   height:  224)
+FPS: 14
+Midpoint X:  434.86309814453125
+Midpoint Y:  290.3359680175781
+width range 34.86309814453125
+height range -9.664031982421875
+
+Objects:
+person: 98.98%    (left_x: 435   top_y:  290   width:   105   height:  220)
+FPS: 13
+Midpoint X:  428.62542724609375
+Midpoint Y:  280.1160583496094
+width range 28.62542724609375
+height range -19.883941650390625
+
+Objects:
+person: 99.31%    (left_x: 429   top_y:  280   width:   114   height:  207)
+FPS: 14
+Midpoint X:  423.5220031738281
+Midpoint Y:  279.14288330078125
+width range 23.522003173828125
+height range -20.85711669921875
+
+Objects:
+person: 99.63%    (left_x: 424   top_y:  279   width:   102   height:  221)
+FPS: 14
+Midpoint X:  410.9380187988281
+Midpoint Y:  278.9503173828125
+width range 10.938018798828125
+height range -21.0496826171875
+
+Objects:
+person: 98.83%    (left_x: 411   top_y:  279   width:   100   height:  223)
+FPS: 14
+Midpoint X:  407.1011047363281
+Midpoint Y:  278.6197814941406
+width range 7.101104736328125
+height range -21.380218505859375
+
+Objects:
+person: 97.55%    (left_x: 407   top_y:  279   width:   98   height:  222)
+FPS: 14
+Midpoint X:  406.678955078125
+Midpoint Y:  271.788330078125
+width range 6.678955078125
+height range -28.211669921875
+
+Objects:
+person: 98.32%    (left_x: 407   top_y:  272   width:   94   height:  209)
+FPS: 14
+Midpoint X:  406.8264465332031
+Midpoint Y:  269.3540344238281
+width range 6.826446533203125
+height range -30.645965576171875
+servo angle 120.59478420009151
+
+Objects:
+person: 99.19%    (left_x: 407   top_y:  269   width:   92   height:  207)
+FPS: 13
+Midpoint X:  408.6226501464844
+Midpoint Y:  266.63262939453125
+width range 8.622650146484375
+height range -33.36737060546875
+servo angle 119.27710843373494
+
+Objects:
+person: 99.09%    (left_x: 409   top_y:  267   width:   95   height:  208)
+FPS: 14
+Midpoint X:  410.9982604980469
+Midpoint Y:  264.3260192871094
+width range 10.998260498046875
+height range -35.673980712890625
+servo angle 117.95943266737838
+
+Objects:
+person: 98.82%    (left_x: 411   top_y:  264   width:   101   height:  205)
+FPS: 14
+Midpoint X:  415.6821594238281
+Midpoint Y:  261.14404296875
+width range 15.682159423828125
+height range -38.85595703125
+servo angle 116.64175690102181
+
+Objects:
+person: 98.7%    (left_x: 416   top_y:  261   width:   107   height:  207)
+FPS: 14
+Midpoint X:  420.7254333496094
+Midpoint Y:  259.8073425292969
+width range 20.725433349609375
+height range -40.192657470703125
+servo angle 115.32408113466524
+
+Objects:
+person: 99.17%    (left_x: 421   top_y:  260   width:   104   height:  224)
+FPS: 14
+Midpoint X:  425.8839111328125
+Midpoint Y:  282.6842346191406
+width range 25.8839111328125
+height range -17.315765380859375
+
+Objects:
+person: 99.16%    (left_x: 426   top_y:  283   width:   110   height:  225)
+FPS: 13
+Midpoint X:  428.47052001953125
+Midpoint Y:  292.9405212402344
+width range 28.47052001953125
+height range -7.059478759765625
+
+Objects:
+person: 97.83%    (left_x: 428   top_y:  293   width:   113   height:  217)
+FPS: 13
+Midpoint X:  435.45361328125
+Midpoint Y:  307.8486328125
+width range 35.45361328125
+height range 7.8486328125
+
+Objects:
+person: 99.18%    (left_x: 435   top_y:  308   width:   100   height:  238)
+FPS: 14
+Midpoint X:  436.6349182128906
+Midpoint Y:  320.0293884277344
+width range 36.634918212890625
+height range 20.029388427734375
+
+Objects:
+person: 98.4%    (left_x: 437   top_y:  320   width:   92   height:  223)
+FPS: 14
+Midpoint X:  436.6421813964844
+Midpoint Y:  318.40509033203125
+width range 36.642181396484375
+height range 18.40509033203125
+
+Objects:
+person: 99.11%    (left_x: 437   top_y:  318   width:   89   height:  215)
+FPS: 14
+Midpoint X:  437.6483459472656
+Midpoint Y:  315.95989990234375
+width range 37.648345947265625
+height range 15.95989990234375
+
+Objects:
+person: 99.02%    (left_x: 438   top_y:  316   width:   97   height:  214)
+FPS: 14
+Midpoint X:  437.0085754394531
+Midpoint Y:  313.6282653808594
+width range 37.008575439453125
+height range 13.628265380859375
+
+Objects:
+person: 98.87%    (left_x: 437   top_y:  314   width:   96   height:  213)
+FPS: 14
+Midpoint X:  436.5041809082031
+Midpoint Y:  311.7229919433594
+width range 36.504180908203125
+height range 11.722991943359375
+
+Objects:
+person: 98.78%    (left_x: 437   top_y:  312   width:   96   height:  214)
+FPS: 14
+Midpoint X:  435.5484924316406
+Midpoint Y:  309.02606201171875
+width range 35.548492431640625
+height range 9.02606201171875
+
+Objects:
+person: 98.52%    (left_x: 436   top_y:  309   width:   99   height:  225)
+FPS: 14
+Midpoint X:  434.8610534667969
+Midpoint Y:  305.5386962890625
+width range 34.861053466796875
+height range 5.5386962890625
+
+Objects:
+person: 98.71%    (left_x: 435   top_y:  306   width:   99   height:  234)
+FPS: 14
+Midpoint X:  432.99102783203125
+Midpoint Y:  293.1927185058594
+width range 32.99102783203125
+height range -6.807281494140625
+
+Objects:
+person: 98.71%    (left_x: 433   top_y:  293   width:   97   height:  233)
+FPS: 13
+Midpoint X:  434.43975830078125
+Midpoint Y:  293.0142822265625
+width range 34.43975830078125
+height range -6.9857177734375
+
+Objects:
+person: 98.51%    (left_x: 434   top_y:  293   width:   86   height:  208)
+FPS: 14
+Midpoint X:  434.3539733886719
+Midpoint Y:  290.678955078125
+width range 34.353973388671875
+height range -9.321044921875
+
+Objects:
+person: 99.07%    (left_x: 434   top_y:  291   width:   87   height:  217)
+FPS: 14
+Midpoint X:  435.63519287109375
+Midpoint Y:  288.2896423339844
+width range 35.63519287109375
+height range -11.710357666015625
+
+Objects:
+person: 99.3%    (left_x: 436   top_y:  288   width:   90   height:  223)
+FPS: 14
+Midpoint X:  438.18365478515625
+Midpoint Y:  287.220947265625
+width range 38.18365478515625
+height range -12.779052734375
+
+Objects:
+person: 99.45%    (left_x: 438   top_y:  287   width:   94   height:  226)
+FPS: 14
+Midpoint X:  441.1533203125
+Midpoint Y:  283.39605712890625
+width range 41.1533203125
+pan servo angle 90.2882415738905
+height range -16.60394287109375
+
+Objects:
+person: 99.44%    (left_x: 441   top_y:  283   width:   99   height:  225)
+FPS: 14
+Midpoint X:  443.79034423828125
+Midpoint Y:  274.39697265625
+width range 43.79034423828125
+pan servo angle 88.97056580753393
+height range -25.60302734375
+
+Objects:
+person: 97.78%    (left_x: 444   top_y:  274   width:   88   height:  226)
+FPS: 14
+Midpoint X:  441.0965576171875
+Midpoint Y:  266.978271484375
+width range 41.0965576171875
+pan servo angle 87.65289004117736
+height range -33.021728515625
+servo angle 114.00640536830868
+
+Objects:
+person: 99.7%    (left_x: 441   top_y:  267   width:   85   height:  205)
+FPS: 14
+Midpoint X:  439.80389404296875
+Midpoint Y:  258.91796875
+width range 39.80389404296875
+height range -41.08203125
+servo angle 112.6887296019521
+
+Objects:
+person: 99.7%    (left_x: 440   top_y:  259   width:   84   height:  199)
+FPS: 14
+Midpoint X:  427.66204833984375
+Midpoint Y:  250.6812286376953
+width range 27.66204833984375
+height range -49.31877136230469
+servo angle 111.37105383559555
+
+Objects:
+person: 97.49%    (left_x: 428   top_y:  251   width:   101   height:  184)
+FPS: 14
+Midpoint X:  402.4594421386719
+Midpoint Y:  251.92044067382812
+width range 2.459442138671875
+height range -48.079559326171875
+servo angle 110.05337806923897
+
+Objects:
+person: 99.22%    (left_x: 402   top_y:  252   width:   87   height:  202)
+FPS: 14
+Midpoint X:  386.2740173339844
+Midpoint Y:  259.6833190917969
+width range -13.725982666015625
+height range -40.316680908203125
+servo angle 108.73570230288243
+
+Objects:
+person: 99.71%    (left_x: 386   top_y:  260   width:   81   height:  199)
+FPS: 14
+Midpoint X:  378.7045593261719
+Midpoint Y:  279.89105224609375
+width range -21.295440673828125
+height range -20.10894775390625
+
+Objects:
+person: 99.22%    (left_x: 379   top_y:  280   width:   81   height:  201)
+FPS: 14
+Midpoint X:  376.2204284667969
+Midpoint Y:  287.3128967285156
+width range -23.779571533203125
+height range -12.687103271484375
+
+Objects:
+person: 99.37%    (left_x: 376   top_y:  287   width:   76   height:  197)
+FPS: 14
+Midpoint X:  374.5660400390625
+Midpoint Y:  295.44970703125
+width range -25.4339599609375
+height range -4.55029296875
+
+Objects:
+person: 99.37%    (left_x: 375   top_y:  295   width:   89   height:  201)
+FPS: 14
+Midpoint X:  376.4463806152344
+Midpoint Y:  317.7193908691406
+width range -23.553619384765625
+height range 17.719390869140625
+
+Objects:
+person: 99.25%    (left_x: 376   top_y:  318   width:   86   height:  197)
+FPS: 13
+Midpoint X:  376.4713134765625
+Midpoint Y:  317.6925964355469
+width range -23.5286865234375
+height range 17.692596435546875
+
+Objects:
+person: 99.35%    (left_x: 376   top_y:  318   width:   84   height:  196)
+FPS: 14
+Midpoint X:  376.6143493652344
+Midpoint Y:  317.78448486328125
+width range -23.385650634765625
+height range 17.78448486328125
+
+Objects:
+person: 99.48%    (left_x: 377   top_y:  318   width:   84   height:  202)
+FPS: 14
+Midpoint X:  376.677734375
+Midpoint Y:  315.0780944824219
+width range -23.322265625
+height range 15.078094482421875
+
+Objects:
+person: 99.25%    (left_x: 377   top_y:  315   width:   83   height:  200)
+FPS: 14
+Midpoint X:  375.5021667480469
+Midpoint Y:  306.76055908203125
+width range -24.497833251953125
+height range 6.76055908203125
+
+Objects:
+person: 99.43%    (left_x: 376   top_y:  307   width:   82   height:  190)
+FPS: 14
+Midpoint X:  372.72747802734375
+Midpoint Y:  303.8179931640625
+width range -27.27252197265625
+height range 3.8179931640625
+
+Objects:
+person: 97.95%    (left_x: 373   top_y:  304   width:   78   height:  191)
+FPS: 14
+Midpoint X:  365.6130676269531
+Midpoint Y:  296.8275146484375
+width range -34.386932373046875
+height range -3.1724853515625
+
+Objects:
+person: 98.36%    (left_x: 366   top_y:  297   width:   89   height:  187)
+FPS: 14
+Midpoint X:  363.28253173828125
+Midpoint Y:  291.6054992675781
+width range -36.71746826171875
+height range -8.394500732421875
+
+Objects:
+person: 99.29%    (left_x: 363   top_y:  292   width:   83   height:  199)
+FPS: 14
+Midpoint X:  354.28875732421875
+Midpoint Y:  295.96185302734375
+width range -45.71124267578125
+pan servo angle 88.53134055208174
+height range -4.03814697265625
+
+Objects:
+person: 98.78%    (left_x: 354   top_y:  296   width:   82   height:  198)
+FPS: 14
+Midpoint X:  345.50054931640625
+Midpoint Y:  294.36468505859375
+width range -54.49945068359375
+pan servo angle 89.40979106298612
+height range -5.63531494140625
+
+Objects:
+person: 99.01%    (left_x: 346   top_y:  294   width:   81   height:  200)
+FPS: 14
+Midpoint X:  337.2149353027344
+Midpoint Y:  288.77447509765625
+width range -62.785064697265625
+pan servo angle 90.2882415738905
+height range -11.22552490234375
+
+Objects:
+person: 98.27%    (left_x: 337   top_y:  289   width:   82   height:  185)
+FPS: 14
+Midpoint X:  332.8659362792969
+Midpoint Y:  288.03607177734375
+width range -67.13406372070312
+pan servo angle 91.16669208479487
+height range -11.96392822265625
+
+Objects:
+person: 99.53%    (left_x: 333   top_y:  288   width:   84   height:  195)
+FPS: 14
+Midpoint X:  331.78704833984375
+Midpoint Y:  287.4463806152344
+width range -68.21295166015625
+pan servo angle 92.04514259569926
+height range -12.553619384765625
+
+Objects:
+person: 99.51%    (left_x: 332   top_y:  287   width:   87   height:  193)
+FPS: 14
+Midpoint X:  331.0837097167969
+Midpoint Y:  286.8236083984375
+width range -68.91629028320312
+pan servo angle 92.92359310660363
+height range -13.1763916015625
+
+Objects:
+person: 99.54%    (left_x: 331   top_y:  287   width:   88   height:  193)
+FPS: 14
+Midpoint X:  355.5806579589844
+Midpoint Y:  284.75140380859375
+width range -44.419342041015625
+pan servo angle 93.80204361750802
+height range -15.24859619140625
+
+Objects:
+person: 99.67%    (left_x: 356   top_y:  285   width:   84   height:  210)
+FPS: 14
+Midpoint X:  360.56121826171875
+Midpoint Y:  282.94512939453125
+width range -39.43878173828125
+height range -17.05487060546875
+
+Objects:
+person: 99.73%    (left_x: 361   top_y:  283   width:   77   height:  211)
+FPS: 14
+Midpoint X:  373.6778564453125
+Midpoint Y:  282.009033203125
+width range -26.3221435546875
+height range -17.990966796875
+
+Objects:
+person: 98.41%    (left_x: 374   top_y:  282   width:   78   height:  198)
+FPS: 14
+Midpoint X:  378.4092102050781
+Midpoint Y:  274.368408203125
+width range -21.590789794921875
+height range -25.631591796875
+
+Objects:
+person: 97.9%    (left_x: 378   top_y:  274   width:   82   height:  187)
+FPS: 14
+Midpoint X:  377.1037902832031
+Midpoint Y:  273.88330078125
+width range -22.896209716796875
+height range -26.11669921875
+
+Objects:
+person: 99.15%    (left_x: 377   top_y:  274   width:   80   height:  189)
+FPS: 14
+Midpoint X:  376.0689697265625
+Midpoint Y:  273.0987854003906
+width range -23.9310302734375
+height range -26.901214599609375
+
+Objects:
+person: 99.36%    (left_x: 376   top_y:  273   width:   85   height:  189)
+FPS: 14
+Midpoint X:  372.83624267578125
+Midpoint Y:  273.24560546875
+width range -27.16375732421875
+height range -26.75439453125
+
+Objects:
+person: 97.76%    (left_x: 373   top_y:  273   width:   81   height:  191)
+FPS: 14
+Midpoint X:  364.49383544921875
+Midpoint Y:  273.0714416503906
+width range -35.50616455078125
+height range -26.928558349609375
+
+Objects:
+person: 98.62%    (left_x: 364   top_y:  273   width:   93   height:  188)
+FPS: 14
+Midpoint X:  358.1697082519531
+Midpoint Y:  272.6637878417969
+width range -41.830291748046875
+pan servo angle 94.68049412841239
+height range -27.336212158203125
+
+Objects:
+person: 99.08%    (left_x: 358   top_y:  273   width:   92   height:  180)
+FPS: 14
+Midpoint X:  351.582763671875
+Midpoint Y:  272.4954833984375
+width range -48.417236328125
+pan servo angle 95.55894463931676
+height range -27.5045166015625
+
+Objects:
+person: 98.96%    (left_x: 352   top_y:  272   width:   85   height:  184)
+FPS: 14
+Midpoint X:  346.36492919921875
+Midpoint Y:  271.3642272949219
+width range -53.63507080078125
+pan servo angle 96.43739515022112
+height range -28.635772705078125
+
+Objects:
+person: 98.88%    (left_x: 346   top_y:  271   width:   80   height:  188)
+FPS: 14
+Midpoint X:  343.6552429199219
+Midpoint Y:  269.18475341796875
+width range -56.344757080078125
+pan servo angle 97.31584566112551
+height range -30.81524658203125
+servo angle 107.41802653652586
+
+Objects:
+person: 97.48%    (left_x: 344   top_y:  269   width:   87   height:  192)
+FPS: 14
+Midpoint X:  355.5658874511719
+Midpoint Y:  271.16778564453125
+width range -44.434112548828125
+pan servo angle 98.19429617202988
+height range -28.83221435546875
+
+Objects:
+person: 98.83%    (left_x: 356   top_y:  271   width:   81   height:  187)
+FPS: 14
+Midpoint X:  364.47637939453125
+Midpoint Y:  271.29705810546875
+width range -35.52362060546875
+height range -28.70294189453125
+
+Objects:
+person: 95.76%    (left_x: 364   top_y:  271   width:   86   height:  196)
+FPS: 14
+Midpoint X:  378.0533447265625
+Midpoint Y:  271.7230529785156
+width range -21.9466552734375
+height range -28.276947021484375
+
+Objects:
+person: 74.53%    (left_x: 378   top_y:  272   width:   77   height:  195)
+FPS: 14
+Midpoint X:  401.2474670410156
+Midpoint Y:  293.55584716796875
+width range 1.247467041015625
+height range -6.44415283203125
+
+Objects:
+person: 96.47%    (left_x: 401   top_y:  294   width:   81   height:  190)
+FPS: 14
+Midpoint X:  407.3336181640625
+Midpoint Y:  300.66949462890625
+width range 7.3336181640625
+height range 0.66949462890625
+
+Objects:
+person: 97.49%    (left_x: 407   top_y:  301   width:   80   height:  188)
+FPS: 14
+Midpoint X:  408.0255432128906
+Midpoint Y:  300.6411437988281
+width range 8.025543212890625
+height range 0.641143798828125
+
+Objects:
+person: 98.63%    (left_x: 408   top_y:  301   width:   76   height:  183)
+FPS: 14
+Midpoint X:  406.8243103027344
+Midpoint Y:  302.00543212890625
+width range 6.824310302734375
+height range 2.00543212890625
+
+Objects:
+person: 99.22%    (left_x: 407   top_y:  302   width:   72   height:  182)
+FPS: 14
+Midpoint X:  408.9312438964844
+Midpoint Y:  305.06842041015625
+width range 8.931243896484375
+height range 5.06842041015625
+
+Objects:
+person: 99.43%    (left_x: 409   top_y:  305   width:   85   height:  191)
+FPS: 14
+Midpoint X:  405.4013366699219
+Midpoint Y:  311.2179870605469
+width range 5.401336669921875
+height range 11.217987060546875
+
+Objects:
+person: 99.02%    (left_x: 405   top_y:  311   width:   95   height:  201)
+FPS: 14
+Midpoint X:  403.14813232421875
+Midpoint Y:  313.1067810058594
+width range 3.14813232421875
+height range 13.106781005859375
+
+Objects:
+person: 99.42%    (left_x: 403   top_y:  313   width:   88   height:  198)
+FPS: 14
+Midpoint X:  395.7158508300781
+Midpoint Y:  313.87774658203125
+width range -4.284149169921875
+height range 13.87774658203125
+
+Objects:
+person: 99.54%    (left_x: 396   top_y:  314   width:   105   height:  200)
+FPS: 14
+Midpoint X:  386.7548828125
+Midpoint Y:  315.3158874511719
+width range -13.2451171875
+height range 15.315887451171875
+
+Objects:
+person: 99.51%    (left_x: 387   top_y:  315   width:   91   height:  190)
+FPS: 14
+Midpoint X:  378.2122497558594
+Midpoint Y:  316.72607421875
+width range -21.787750244140625
+height range 16.72607421875
+
+Objects:
+person: 99.63%    (left_x: 378   top_y:  317   width:   80   height:  189)
+FPS: 14
+Midpoint X:  372.9840393066406
+Midpoint Y:  317.51611328125
+width range -27.015960693359375
+height range 17.51611328125
+
+Objects:
+person: 99.29%    (left_x: 373   top_y:  318   width:   78   height:  192)
+FPS: 14
+Midpoint X:  366.69708251953125
+Midpoint Y:  319.9220275878906
+width range -33.30291748046875
+height range 19.922027587890625
+
+Objects:
+person: 97.2%    (left_x: 367   top_y:  320   width:   85   height:  208)
+FPS: 14
+Midpoint X:  366.7792663574219
+Midpoint Y:  326.06317138671875
+width range -33.220733642578125
+height range 26.06317138671875
+
+Objects:
+person: 99.65%    (left_x: 367   top_y:  326   width:   93   height:  206)
+FPS: 14
+Midpoint X:  371.5607604980469
+Midpoint Y:  329.4444274902344
+width range -28.439239501953125
+height range 29.444427490234375
+
+Objects:
+person: 99.11%    (left_x: 372   top_y:  329   width:   75   height:  204)
+FPS: 14
+Midpoint X:  372.46746826171875
+Midpoint Y:  332.0857238769531
+width range -27.53253173828125
+height range 32.085723876953125
+servo angle 108.29647704743023
+
+Objects:
+person: 99.43%    (left_x: 372   top_y:  332   width:   80   height:  200)
+FPS: 14
+Midpoint X:  367.60198974609375
+Midpoint Y:  334.0269470214844
+width range -32.39801025390625
+height range 34.026947021484375
+servo angle 109.17492755833462
+
+Objects:
+person: 98.97%    (left_x: 368   top_y:  334   width:   95   height:  201)
+FPS: 13
+Midpoint X:  366.39190673828125
+Midpoint Y:  335.05596923828125
+width range -33.60809326171875
+height range 35.05596923828125
+servo angle 110.05337806923897
+
+Objects:
+person: 99.5%    (left_x: 366   top_y:  335   width:   89   height:  197)
+FPS: 14
+Midpoint X:  364.260986328125
+Midpoint Y:  337.488525390625
+width range -35.739013671875
+height range 37.488525390625
+servo angle 110.93182858014335
+
+Objects:
+person: 99.83%    (left_x: 364   top_y:  337   width:   86   height:  200)
+FPS: 14
+Midpoint X:  361.3393249511719
+Midpoint Y:  339.385498046875
+width range -38.660675048828125
+height range 39.385498046875
+servo angle 111.81027909104773
+
+Objects:
+person: 99.83%    (left_x: 361   top_y:  339   width:   84   height:  202)
+FPS: 14
+Midpoint X:  359.6019287109375
+Midpoint Y:  340.23175048828125
+width range -40.3980712890625
+pan servo angle 99.07274668293427
+height range 40.23175048828125
+servo angle 112.6887296019521
+
+Objects:
+person: 99.71%    (left_x: 360   top_y:  340   width:   87   height:  201)
+FPS: 14
+Midpoint X:  354.6582336425781
+Midpoint Y:  317.7242736816406
+width range -45.341766357421875
+pan servo angle 99.95119719383864
+height range 17.724273681640625
+
+Objects:
+person: 99.7%    (left_x: 355   top_y:  318   width:   82   height:  206)
+FPS: 14
+Midpoint X:  348.444580078125
+Midpoint Y:  308.04541015625
+width range -51.555419921875
+pan servo angle 100.82964770474302
+height range 8.04541015625
+
+Objects:
+person: 99.75%    (left_x: 348   top_y:  308   width:   82   height:  196)
+FPS: 14
+Midpoint X:  348.1321716308594
+Midpoint Y:  294.56549072265625
+width range -51.867828369140625
+pan servo angle 101.7080982156474
+height range -5.43450927734375
+
+Objects:
+person: 99.3%    (left_x: 348   top_y:  295   width:   86   height:  205)
+FPS: 14
+Midpoint X:  358.48590087890625
+Midpoint Y:  293.2789001464844
+width range -41.51409912109375
+pan servo angle 102.58654872655178
+height range -6.721099853515625
+
+Objects:
+person: 99.72%    (left_x: 358   top_y:  293   width:   81   height:  202)
+FPS: 14
+Midpoint X:  371.72216796875
+Midpoint Y:  292.4944763183594
+width range -28.27783203125
+height range -7.505523681640625
+
+Objects:
+person: 96.87%    (left_x: 372   top_y:  292   width:   89   height:  229)
+FPS: 14
+Midpoint X:  385.205810546875
+Midpoint Y:  294.4321594238281
+width range -14.794189453125
+height range -5.567840576171875
+
+Objects:
+person: 99.17%    (left_x: 385   top_y:  294   width:   85   height:  209)
+FPS: 14
+Midpoint X:  403.51275634765625
+Midpoint Y:  300.92779541015625
+width range 3.51275634765625
+height range 0.92779541015625
+
+Objects:
+person: 99.4%    (left_x: 404   top_y:  301   width:   87   height:  201)
+FPS: 14
+Midpoint X:  408.1015930175781
+Midpoint Y:  305.92608642578125
+width range 8.101593017578125
+height range 5.92608642578125
+
+Objects:
+person: 99.82%    (left_x: 408   top_y:  306   width:   82   height:  208)
+FPS: 14
+Midpoint X:  415.5185546875
+Midpoint Y:  306.3386535644531
+width range 15.5185546875
+height range 6.338653564453125
+
+Objects:
+person: 99.87%    (left_x: 416   top_y:  306   width:   83   height:  207)
+FPS: 14
+Midpoint X:  419.4237365722656
+Midpoint Y:  310.0077819824219
+width range 19.423736572265625
+height range 10.007781982421875
+
+Objects:
+person: 99.88%    (left_x: 419   top_y:  310   width:   87   height:  202)
+FPS: 14
+Midpoint X:  418.31158447265625
+Midpoint Y:  315.0376892089844
+width range 18.31158447265625
+height range 15.037689208984375
+
+Objects:
+person: 99.83%    (left_x: 418   top_y:  315   width:   89   height:  212)
+FPS: 14
+Midpoint X:  419.0056457519531
+Midpoint Y:  317.8239440917969
+width range 19.005645751953125
+height range 17.823944091796875
+
+Objects:
+person: 99.43%    (left_x: 419   top_y:  318   width:   91   height:  208)
+FPS: 14
+Midpoint X:  418.6398620605469
+Midpoint Y:  324.2383117675781
+width range 18.639862060546875
+height range 24.238311767578125
+
+Objects:
+person: 98.95%    (left_x: 419   top_y:  324   width:   93   height:  209)
+FPS: 14
+Midpoint X:  423.18634033203125
+Midpoint Y:  324.4651184082031
+width range 23.18634033203125
+height range 24.465118408203125
+
+Objects:
+person: 99.57%    (left_x: 423   top_y:  324   width:   92   height:  196)
+FPS: 14
+Midpoint X:  427.81573486328125
+Midpoint Y:  327.53765869140625
+width range 27.81573486328125
+height range 27.53765869140625
+
+Objects:
+person: 99.62%    (left_x: 428   top_y:  328   width:   109   height:  189)
+FPS: 14
+Midpoint X:  439.06793212890625
+Midpoint Y:  329.4049987792969
+width range 39.06793212890625
+height range 29.404998779296875
+
+Objects:
+person: 99.21%    (left_x: 439   top_y:  329   width:   90   height:  195)
+FPS: 14
+Midpoint X:  447.65557861328125
+Midpoint Y:  332.11834716796875
+width range 47.65557861328125
+pan servo angle 101.26887296019521
+height range 32.11834716796875
+servo angle 113.56718011285649
+
+Objects:
+person: 99.76%    (left_x: 448   top_y:  332   width:   97   height:  208)
+FPS: 14
+Midpoint X:  452.1181945800781
+Midpoint Y:  332.4446105957031
+width range 52.118194580078125
+pan servo angle 99.95119719383864
+height range 32.444610595703125
+servo angle 114.44563062376086
+
+Objects:
+person: 99.63%    (left_x: 452   top_y:  332   width:   109   height:  211)
+FPS: 14
+Midpoint X:  463.3185729980469
+Midpoint Y:  332.01385498046875
+width range 63.318572998046875
+pan servo angle 98.63352142748208
+height range 32.01385498046875
+servo angle 115.32408113466524
+
+Objects:
+person: 98.82%    (left_x: 463   top_y:  332   width:   98   height:  207)
+FPS: 14
+Midpoint X:  479.5528869628906
+Midpoint Y:  335.7217712402344
+width range 79.55288696289062
+pan servo angle 97.31584566112551
+height range 35.721771240234375
+servo angle 116.20253164556962
+
+Objects:
+person: 99.7%    (left_x: 480   top_y:  336   width:   98   height:  203)
+FPS: 14
+Midpoint X:  487.5232238769531
+Midpoint Y:  330.9446105957031
+width range 87.52322387695312
+pan servo angle 95.99816989476896
+height range 30.944610595703125
+servo angle 117.080982156474
+
+Objects:
+person: 99.56%    (left_x: 488   top_y:  331   width:   101   height:  209)
+FPS: 14
+Midpoint X:  474.3092956542969
+Midpoint Y:  326.9154357910156
+width range 74.30929565429688
+pan servo angle 94.68049412841239
+height range 26.915435791015625
+
+Objects:
+person: 99.6%    (left_x: 474   top_y:  327   width:   100   height:  221)
+FPS: 14
+Midpoint X:  468.10675048828125
+Midpoint Y:  314.6156311035156
+width range 68.10675048828125
+pan servo angle 93.36281836205582
+height range 14.615631103515625
+
+Objects:
+person: 98.58%    (left_x: 468   top_y:  315   width:   102   height:  212)
+FPS: 14
+Midpoint X:  460.34326171875
+Midpoint Y:  294.3100280761719
+width range 60.34326171875
+pan servo angle 92.04514259569926
+height range -5.689971923828125
+
+Objects:
+person: 99.22%    (left_x: 460   top_y:  294   width:   100   height:  209)
+FPS: 14
+Midpoint X:  460.123779296875
+Midpoint Y:  292.4247741699219
+width range 60.123779296875
+pan servo angle 90.72746682934269
+height range -7.575225830078125
+
+Objects:
+person: 98.97%    (left_x: 460   top_y:  292   width:   99   height:  204)
+FPS: 14
+Midpoint X:  456.526611328125
+Midpoint Y:  292.8644104003906
+width range 56.526611328125
+pan servo angle 89.40979106298612
+height range -7.135589599609375
+
+Objects:
+person: 98.71%    (left_x: 457   top_y:  293   width:   88   height:  202)
+FPS: 14
+Midpoint X:  449.30914306640625
+Midpoint Y:  293.9849853515625
+width range 49.30914306640625
+pan servo angle 88.09211529662956
+height range -6.0150146484375
+
+Objects:
+person: 98.7%    (left_x: 449   top_y:  294   width:   84   height:  191)
+FPS: 14
+Midpoint X:  444.4666748046875
+Midpoint Y:  291.9361572265625
+width range 44.4666748046875
+pan servo angle 86.77443953027299
+height range -8.0638427734375
+
+Objects:
+person: 99.43%    (left_x: 444   top_y:  292   width:   89   height:  198)
+FPS: 14
+Midpoint X:  442.89447021484375
+Midpoint Y:  292.4759216308594
+width range 42.89447021484375
+pan servo angle 85.45676376391643
+height range -7.524078369140625
+
+Objects:
+person: 99.23%    (left_x: 443   top_y:  292   width:   89   height:  200)
+FPS: 14
+Midpoint X:  437.3641052246094
+Midpoint Y:  292.87176513671875
+width range 37.364105224609375
+height range -7.12823486328125
+
+Objects:
+person: 98.11%    (left_x: 437   top_y:  293   width:   92   height:  198)
+FPS: 14
+Midpoint X:  424.45672607421875
+Midpoint Y:  292.0021667480469
+width range 24.45672607421875
+height range -7.997833251953125
+
+Objects:
+person: 99.39%    (left_x: 424   top_y:  292   width:   107   height:  202)
+FPS: 14
+Midpoint X:  427.9526672363281
+Midpoint Y:  289.345947265625
+width range 27.952667236328125
+height range -10.654052734375
+
+Objects:
+person: 99.45%    (left_x: 428   top_y:  289   width:   102   height:  205)
+FPS: 14
+Midpoint X:  425.4720764160156
+Midpoint Y:  290.6046447753906
+width range 25.472076416015625
+height range -9.395355224609375
+
+Objects:
+person: 99.79%    (left_x: 425   top_y:  291   width:   85   height:  211)
+FPS: 14
+Midpoint X:  427.5637512207031
+Midpoint Y:  293.4562072753906
+width range 27.563751220703125
+height range -6.543792724609375
+
+Objects:
+person: 99.42%    (left_x: 428   top_y:  293   width:   92   height:  208)
+FPS: 14
+Midpoint X:  433.272705078125
+Midpoint Y:  290.0218200683594
+width range 33.272705078125
+height range -9.978179931640625
+
+Objects:
+person: 98.17%    (left_x: 433   top_y:  290   width:   86   height:  218)
+FPS: 14
+Midpoint X:  437.50439453125
+Midpoint Y:  293.84344482421875
+width range 37.50439453125
+height range -6.15655517578125
+
+Objects:
+person: 99.03%    (left_x: 438   top_y:  294   width:   91   height:  224)
+FPS: 14
+Midpoint X:  450.34466552734375
+Midpoint Y:  298.2535400390625
+width range 50.34466552734375
+pan servo angle 84.13908799755986
+height range -1.7464599609375
+
+Objects:
+person: 99.28%    (left_x: 450   top_y:  298   width:   90   height:  195)
+FPS: 14
+Midpoint X:  461.865234375
+Midpoint Y:  298.44647216796875
+width range 61.865234375
+pan servo angle 82.8214122312033
+height range -1.55352783203125
+
+Objects:
+person: 99.09%    (left_x: 462   top_y:  298   width:   93   height:  188)
+FPS: 14
+Midpoint X:  471.7080078125
+Midpoint Y:  299.0270080566406
+width range 71.7080078125
+pan servo angle 81.50373646484672
+height range -0.972991943359375
+
+Objects:
+person: 97.65%    (left_x: 472   top_y:  299   width:   84   height:  191)
+FPS: 14
+Midpoint X:  476.0048828125
+Midpoint Y:  303.6286926269531
+width range 76.0048828125
+pan servo angle 80.18606069849015
+height range 3.628692626953125
+
+Objects:
+person: 99.37%    (left_x: 476   top_y:  304   width:   78   height:  194)
+FPS: 14
+Midpoint X:  475.9358825683594
+Midpoint Y:  305.6908264160156
+width range 75.93588256835938
+pan servo angle 78.86838493213361
+height range 5.690826416015625
+
+Objects:
+person: 99.71%    (left_x: 476   top_y:  306   width:   78   height:  206)
+FPS: 14
+Midpoint X:  469.199462890625
+Midpoint Y:  306.60321044921875
+width range 69.199462890625
+pan servo angle 77.55070916577704
+height range 6.60321044921875
+
+Objects:
+person: 99.45%    (left_x: 469   top_y:  307   width:   83   height:  202)
+FPS: 13
+Midpoint X:  465.1738586425781
+Midpoint Y:  305.9713134765625
+width range 65.17385864257812
+pan servo angle 76.23303339942046
+height range 5.9713134765625
+
+Objects:
+person: 99.29%    (left_x: 465   top_y:  306   width:   94   height:  207)
+FPS: 14
+Midpoint X:  456.2355651855469
+Midpoint Y:  306.42193603515625
+width range 56.235565185546875
+pan servo angle 74.9153576330639
+height range 6.42193603515625
+
+Objects:
+person: 99.32%    (left_x: 456   top_y:  306   width:   106   height:  196)
+FPS: 14
+Midpoint X:  452.8912658691406
+Midpoint Y:  304.6958923339844
+width range 52.891265869140625
+pan servo angle 73.59768186670733
+height range 4.695892333984375
+
+Objects:
+person: 99.49%    (left_x: 453   top_y:  305   width:   95   height:  203)
+FPS: 14
+Midpoint X:  445.00848388671875
+Midpoint Y:  309.3706359863281
+width range 45.00848388671875
+pan servo angle 72.28000610035078
+height range 9.370635986328125
+
+Objects:
+person: 99.71%    (left_x: 445   top_y:  309   width:   86   height:  214)
+FPS: 14
+Midpoint X:  434.91278076171875
+Midpoint Y:  318.36627197265625
+width range 34.91278076171875
+height range 18.36627197265625
+
+Objects:
+person: 98.5%    (left_x: 435   top_y:  318   width:   88   height:  222)
+FPS: 14
+Midpoint X:  426.4941711425781
+Midpoint Y:  327.30126953125
+width range 26.494171142578125
+height range 27.30126953125
+
+Objects:
+person: 99.74%    (left_x: 426   top_y:  327   width:   97   height:  239)
+FPS: 14
+Midpoint X:  417.7788391113281
+Midpoint Y:  329.50726318359375
+width range 17.778839111328125
+height range 29.50726318359375
+
+Objects:
+person: 99.59%    (left_x: 418   top_y:  330   width:   97   height:  229)
+FPS: 14
+Midpoint X:  405.6080322265625
+Midpoint Y:  330.0233459472656
+width range 5.6080322265625
+height range 30.023345947265625
+servo angle 117.95943266737838
+
+Objects:
+person: 99.54%    (left_x: 406   top_y:  330   width:   91   height:  216)
+FPS: 14
+Midpoint X:  406.5671081542969
+Midpoint Y:  329.09967041015625
+width range 6.567108154296875
+height range 29.09967041015625
+
+Objects:
+person: 98.84%    (left_x: 407   top_y:  329   width:   95   height:  206)
+FPS: 14
+Midpoint X:  414.4046325683594
+Midpoint Y:  332.5769348144531
+width range 14.404632568359375
+height range 32.576934814453125
+servo angle 118.83788317828275
+
+Objects:
+person: 99.6%    (left_x: 414   top_y:  333   width:   102   height:  198)
+FPS: 14
+Midpoint X:  419.87200927734375
+Midpoint Y:  337.25225830078125
+width range 19.87200927734375
+height range 37.25225830078125
+servo angle 119.71633368918714
+
+Objects:
+person: 99.74%    (left_x: 420   top_y:  337   width:   94   height:  204)
+FPS: 14
+Midpoint X:  424.0438537597656
+Midpoint Y:  326.1759948730469
+width range 24.043853759765625
+height range 26.175994873046875
+
+Objects:
+person: 99.66%    (left_x: 424   top_y:  326   width:   98   height:  213)
+FPS: 13
+Midpoint X:  427.36822509765625
+Midpoint Y:  326.1041564941406
+width range 27.36822509765625
+height range 26.104156494140625
+
+Objects:
+person: 99.25%    (left_x: 427   top_y:  326   width:   105   height:  211)
+FPS: 14
+Midpoint X:  428.4290771484375
+Midpoint Y:  310.0113525390625
+width range 28.4290771484375
+height range 10.0113525390625
+
+Objects:
+person: 98.46%    (left_x: 428   top_y:  310   width:   110   height:  213)
+FPS: 14
+Midpoint X:  435.19085693359375
+Midpoint Y:  295.5287170410156
+width range 35.19085693359375
+height range -4.471282958984375
+
+Objects:
+person: 98.93%    (left_x: 435   top_y:  296   width:   100   height:  243)
+FPS: 14
+Midpoint X:  435.5539245605469
+Midpoint Y:  294.9232177734375
+width range 35.553924560546875
+height range -5.0767822265625
+
+Objects:
+person: 99.11%    (left_x: 436   top_y:  295   width:   102   height:  237)
+FPS: 14
+Midpoint X:  436.3570251464844
+Midpoint Y:  297.4962158203125
+width range 36.357025146484375
+height range -2.5037841796875
+
+Objects:
+person: 99.16%    (left_x: 436   top_y:  297   width:   106   height:  235)
+FPS: 14
+Midpoint X:  435.7066650390625
+Midpoint Y:  297.4842834472656
+width range 35.7066650390625
+height range -2.515716552734375
+
+Objects:
+person: 99.15%    (left_x: 436   top_y:  297   width:   107   height:  232)
+FPS: 14
+Midpoint X:  435.1993103027344
+Midpoint Y:  296.4019775390625
+width range 35.199310302734375
+height range -3.5980224609375
+
+Objects:
+person: 99.08%    (left_x: 435   top_y:  296   width:   105   height:  232)
+FPS: 14
+Midpoint X:  433.9527587890625
+Midpoint Y:  297.80780029296875
+width range 33.9527587890625
+height range -2.19219970703125
+
+Objects:
+person: 98.42%    (left_x: 434   top_y:  298   width:   104   height:  235)
+FPS: 14
+Midpoint X:  426.7590026855469
+Midpoint Y:  304.64569091796875
+width range 26.759002685546875
+height range 4.64569091796875
+
+Objects:
+person: 99.13%    (left_x: 427   top_y:  305   width:   118   height:  209)
+FPS: 14
+Midpoint X:  423.67926025390625
+Midpoint Y:  305.1204528808594
+width range 23.67926025390625
+height range 5.120452880859375
+
+Objects:
+person: 99.63%    (left_x: 424   top_y:  305   width:   110   height:  208)
+FPS: 14
+Midpoint X:  414.5859680175781
+Midpoint Y:  305.67181396484375
+width range 14.585968017578125
+height range 5.67181396484375
+
+Objects:
+person: 99.76%    (left_x: 415   top_y:  306   width:   96   height:  216)
+FPS: 14
+Midpoint X:  405.9219970703125
+Midpoint Y:  307.0264587402344
+width range 5.9219970703125
+height range 7.026458740234375
+
+Objects:
+person: 99.56%    (left_x: 406   top_y:  307   width:   93   height:  214)
+FPS: 14
+Midpoint X:  402.4208984375
+Midpoint Y:  306.5206298828125
+width range 2.4208984375
+height range 6.5206298828125
+
+Objects:
+person: 99.47%    (left_x: 402   top_y:  307   width:   101   height:  210)
+FPS: 14
+Midpoint X:  393.2393798828125
+Midpoint Y:  308.3697814941406
+width range -6.7606201171875
+height range 8.369781494140625
+
+Objects:
+person: 99.62%    (left_x: 393   top_y:  308   width:   100   height:  204)
+FPS: 13
+Midpoint X:  387.0689392089844
+Midpoint Y:  314.2967529296875
+width range -12.931060791015625
+height range 14.2967529296875
+
+Objects:
+person: 99.55%    (left_x: 387   top_y:  314   width:   92   height:  219)
+FPS: 14
+Midpoint X:  376.7184143066406
+Midpoint Y:  324.8122253417969
+width range -23.281585693359375
+height range 24.812225341796875
+
+Objects:
+person: 97.63%    (left_x: 377   top_y:  325   width:   102   height:  231)
+FPS: 14
+Midpoint X:  372.6670227050781
+Midpoint Y:  328.12640380859375
+width range -27.332977294921875
+height range 28.12640380859375
+
+Objects:
+person: 98.49%    (left_x: 373   top_y:  328   width:   98   height:  221)
+FPS: 14
+Midpoint X:  365.12054443359375
+Midpoint Y:  329.7397155761719
+width range -34.87945556640625
+height range 29.739715576171875
+
+Objects:
+person: 99.65%    (left_x: 365   top_y:  330   width:   99   height:  221)
+FPS: 14
+Midpoint X:  351.6711730957031
+Midpoint Y:  331.2456970214844
+width range -48.328826904296875
+pan servo angle 73.15845661125515
+height range 31.245697021484375
+servo angle 120.59478420009151
+
+Objects:
+person: 99.29%    (left_x: 352   top_y:  331   width:   101   height:  205)
+FPS: 14
+Midpoint X:  343.6499328613281
+Midpoint Y:  331.063720703125
+width range -56.350067138671875
+pan servo angle 74.03690712215952
+height range 31.063720703125
+servo angle 121.4732347109959
+
+Objects:
+person: 97.09%    (left_x: 344   top_y:  331   width:   107   height:  212)
+FPS: 14
+Midpoint X:  331.9764709472656
+Midpoint Y:  329.9300231933594
+width range -68.02352905273438
+pan servo angle 74.9153576330639
+height range 29.930023193359375
+
+Objects:
+person: 98.89%    (left_x: 332   top_y:  330   width:   104   height:  189)
+FPS: 14
+Midpoint X:  321.3908996582031
+Midpoint Y:  335.7001037597656
+width range -78.60910034179688
+pan servo angle 75.79380814396828
+height range 35.700103759765625
+servo angle 122.35168522190027
+
+Objects:
+person: 99.52%    (left_x: 321   top_y:  336   width:   102   height:  203)
+FPS: 14
+Midpoint X:  313.631103515625
+Midpoint Y:  335.27301025390625
+width range -86.368896484375
+pan servo angle 76.67225865487265
+height range 35.27301025390625
+servo angle 123.23013573280463
+
+Objects:
+person: 98.36%    (left_x: 314   top_y:  335   width:   112   height:  209)
+FPS: 14
+Midpoint X:  304.35052490234375
+Midpoint Y:  326.1478271484375
+width range -95.64947509765625
+pan servo angle 77.55070916577704
+height range 26.1478271484375
+
+Objects:
+person: 97.3%    (left_x: 304   top_y:  326   width:   120   height:  199)
+FPS: 14
+Midpoint X:  304.89849853515625
+Midpoint Y:  315.2619934082031
+width range -95.10150146484375
+pan servo angle 78.42915967668141
+height range 15.261993408203125
+
+Objects:
+person: 97.66%    (left_x: 305   top_y:  315   width:   117   height:  201)
+FPS: 14
+Midpoint X:  302.84979248046875
+Midpoint Y:  309.863525390625
+width range -97.15020751953125
+pan servo angle 79.3076101875858
+height range 9.863525390625
+
+Objects:
+person: 99.61%    (left_x: 303   top_y:  310   width:   103   height:  208)
+FPS: 14
+Midpoint X:  296.4081115722656
+Midpoint Y:  304.4369812011719
+width range -103.59188842773438
+pan servo angle 80.18606069849015
+height range 4.436981201171875
+
+Objects:
+person: 99.45%    (left_x: 296   top_y:  304   width:   100   height:  206)
+FPS: 14
+Midpoint X:  293.4251403808594
+Midpoint Y:  306.8962707519531
+width range -106.57485961914062
+pan servo angle 81.06451120939454
+height range 6.896270751953125
+
+Objects:
+person: 99.68%    (left_x: 293   top_y:  307   width:   97   height:  210)
+FPS: 14
+Midpoint X:  295.7306213378906
+Midpoint Y:  307.7983703613281
+width range -104.26937866210938
+pan servo angle 81.94296172029891
+height range 7.798370361328125
+
+Objects:
+person: 99.11%    (left_x: 296   top_y:  308   width:   115   height:  206)
+FPS: 14
+Midpoint X:  291.8871154785156
+Midpoint Y:  308.3563232421875
+width range -108.11288452148438
+pan servo angle 82.8214122312033
+height range 8.3563232421875
+
+Objects:
+person: 99.11%    (left_x: 292   top_y:  308   width:   109   height:  197)
+FPS: 14
+Midpoint X:  286.2786865234375
+Midpoint Y:  306.9879455566406
+width range -113.7213134765625
+pan servo angle 83.69986274210767
+height range 6.987945556640625
+
+Objects:
+person: 99.31%    (left_x: 286   top_y:  307   width:   108   height:  192)
+FPS: 14
+Midpoint X:  272.317138671875
+Midpoint Y:  302.8014831542969
+width range -127.682861328125
+pan servo angle 84.57831325301206
+height range 2.801483154296875
+
+Objects:
+person: 98.88%    (left_x: 272   top_y:  303   width:   98   height:  208)
+FPS: 14
+Midpoint X:  270.8435974121094
+Midpoint Y:  302.2922058105469
+width range -129.15640258789062
+pan servo angle 85.45676376391643
+height range 2.292205810546875
+
+Objects:
+person: 96.37%    (left_x: 271   top_y:  302   width:   92   height:  203)
+FPS: 14
+Midpoint X:  269.8813781738281
+Midpoint Y:  287.1661376953125
+width range -130.11862182617188
+pan servo angle 86.3352142748208
+height range -12.8338623046875
+
+Objects:
+person: 98.05%    (left_x: 270   top_y:  287   width:   87   height:  201)
+FPS: 14
+Midpoint X:  270.3729248046875
+Midpoint Y:  284.303955078125
+width range -129.6270751953125
+pan servo angle 87.21366478572517
+height range -15.696044921875
+
+Objects:
+person: 98.6%    (left_x: 270   top_y:  284   width:   90   height:  207)
+FPS: 14
+Midpoint X:  272.14056396484375
+Midpoint Y:  283.97344970703125
+width range -127.85943603515625
+pan servo angle 88.09211529662956
+height range -16.02655029296875
+
+Objects:
+person: 98.95%    (left_x: 272   top_y:  284   width:   100   height:  212)
+FPS: 14
+Midpoint X:  271.7770690917969
+Midpoint Y:  279.4529724121094
+width range -128.22293090820312
+pan servo angle 88.97056580753393
+height range -20.547027587890625
+
+Objects:
+person: 98.08%    (left_x: 272   top_y:  279   width:   99   height:  198)
+FPS: 14
+Midpoint X:  272.3888854980469
+Midpoint Y:  263.9162902832031
+width range -127.61111450195312
+pan servo angle 89.84901631843832
+height range -36.083709716796875
+servo angle 121.91245996644808
+
+Objects:
+person: 99.64%    (left_x: 272   top_y:  264   width:   97   height:  204)
+FPS: 14
+Midpoint X:  270.1850280761719
+Midpoint Y:  260.5550842285156
+width range -129.81497192382812
+pan servo angle 90.72746682934269
+height range -39.444915771484375
+servo angle 120.59478420009151
+
+Objects:
+person: 99.05%    (left_x: 270   top_y:  261   width:   94   height:  197)
+FPS: 14
+Midpoint X:  280.6222229003906
+Midpoint Y:  257.65167236328125
+width range -119.37777709960938
+pan servo angle 91.60591734024706
+height range -42.34832763671875
+servo angle 119.27710843373494
+
+Objects:
+person: 97.87%    (left_x: 281   top_y:  258   width:   100   height:  213)
+FPS: 14
+Midpoint X:  291.5588073730469
+Midpoint Y:  259.8305969238281
+width range -108.44119262695312
+pan servo angle 92.48436785115145
+height range -40.169403076171875
+servo angle 117.95943266737838
+
+Objects:
+person: 99.6%    (left_x: 292   top_y:  260   width:   88   height:  223)
+FPS: 14
+Midpoint X:  303.73614501953125
+Midpoint Y:  246.99496459960938
+width range -96.26385498046875
+pan servo angle 93.36281836205582
+height range -53.005035400390625
+servo angle 116.64175690102181
+
+Objects:
+person: 99.32%    (left_x: 304   top_y:  247   width:   90   height:  225)
+FPS: 14
+Midpoint X:  305.0557556152344
+Midpoint Y:  249.2166290283203
+width range -94.94424438476562
+pan servo angle 94.2412688729602
+height range -50.78337097167969
+servo angle 115.32408113466524
+
+Objects:
+person: 98.53%    (left_x: 305   top_y:  249   width:   91   height:  219)
+FPS: 14
+Midpoint X:  313.02301025390625
+Midpoint Y:  273.28826904296875
+width range -86.97698974609375
+pan servo angle 95.11971938386458
+height range -26.71173095703125
+
+Objects:
+person: 96.9%    (left_x: 313   top_y:  273   width:   90   height:  197)
+FPS: 14
+Midpoint X:  321.8062744140625
+Midpoint Y:  289.02618408203125
+width range -78.1937255859375
+pan servo angle 95.99816989476896
+height range -10.97381591796875
+
+Objects:
+person: 99.81%    (left_x: 322   top_y:  289   width:   90   height:  199)
+FPS: 14
+Midpoint X:  325.8547668457031
+Midpoint Y:  304.6536560058594
+width range -74.14523315429688
+pan servo angle 96.87662040567332
+height range 4.653656005859375
+
+Objects:
+person: 99.78%    (left_x: 326   top_y:  305   width:   96   height:  190)
+FPS: 14
+Midpoint X:  329.6414489746094
+Midpoint Y:  325.8445739746094
+width range -70.35855102539062
+pan servo angle 97.7550709165777
+height range 25.844573974609375
+
+Objects:
+person: 99.53%    (left_x: 330   top_y:  326   width:   99   height:  177)
+FPS: 13
+Midpoint X:  334.0375061035156
+Midpoint Y:  328.1252746582031
+width range -65.96249389648438
+pan servo angle 98.63352142748208
+height range 28.125274658203125
+
+Objects:
+person: 99.65%    (left_x: 334   top_y:  328   width:   97   height:  185)
+FPS: 14
+Midpoint X:  334.7095642089844
+Midpoint Y:  327.0517883300781
+width range -65.29043579101562
+pan servo angle 99.51197193838645
+height range 27.051788330078125
+
+Objects:
+person: 99.44%    (left_x: 335   top_y:  327   width:   102   height:  188)
+FPS: 14
+Midpoint X:  342.8514099121094
+Midpoint Y:  326.0435485839844
+width range -57.148590087890625
+pan servo angle 100.39042244929082
+height range 26.043548583984375
+
+Objects:
+person: 98.78%    (left_x: 343   top_y:  326   width:   95   height:  204)
+FPS: 14
+Midpoint X:  359.1258850097656
+Midpoint Y:  325.7529602050781
+width range -40.874114990234375
+pan servo angle 101.26887296019521
+height range 25.752960205078125
+
+Objects:
+person: 99.84%    (left_x: 359   top_y:  326   width:   102   height:  209)
+FPS: 14
+Midpoint X:  363.0671081542969
+Midpoint Y:  325.9642028808594
+width range -36.932891845703125
+height range 25.964202880859375
+
+Objects:
+person: 99.8%    (left_x: 363   top_y:  326   width:   107   height:  204)
+FPS: 14
+Midpoint X:  375.17510986328125
+Midpoint Y:  325.5160827636719
+width range -24.82489013671875
+height range 25.516082763671875
+
+Objects:
+person: 98.41%    (left_x: 375   top_y:  326   width:   103   height:  191)
+FPS: 14
+Midpoint X:  386.7369079589844
+Midpoint Y:  325.3116760253906
+width range -13.263092041015625
+height range 25.311676025390625
+
+Objects:
+person: 98.34%    (left_x: 387   top_y:  325   width:   106   height:  184)
+FPS: 14
+Midpoint X:  390.1763610839844
+Midpoint Y:  319.2803649902344
+width range -9.823638916015625
+height range 19.280364990234375
+
+Objects:
+person: 98.29%    (left_x: 390   top_y:  319   width:   97   height:  197)
+FPS: 14
+Midpoint X:  394.3160095214844
+Midpoint Y:  313.4423522949219
+width range -5.683990478515625
+height range 13.442352294921875
+
+Objects:
+person: 99.35%    (left_x: 394   top_y:  313   width:   97   height:  193)
+FPS: 14
+Midpoint X:  391.829833984375
+Midpoint Y:  311.7436828613281
+width range -8.170166015625
+height range 11.743682861328125
+
+Objects:
+person: 99.26%    (left_x: 392   top_y:  312   width:   95   height:  185)
+FPS: 13
+Midpoint X:  388.0339050292969
+Midpoint Y:  312.1431884765625
+width range -11.966094970703125
+height range 12.1431884765625
+
+Objects:
+person: 99.5%    (left_x: 388   top_y:  312   width:   99   height:  187)
+FPS: 14
+Midpoint X:  377.99945068359375
+Midpoint Y:  312.6378173828125
+width range -22.00054931640625
+height range 12.6378173828125
+
+Objects:
+person: 99.66%    (left_x: 378   top_y:  313   width:   105   height:  184)
+FPS: 14
+Midpoint X:  364.8583984375
+Midpoint Y:  310.3717346191406
+width range -35.1416015625
+height range 10.371734619140625
+
+Objects:
+person: 98.67%    (left_x: 365   top_y:  310   width:   124   height:  179)
+FPS: 14
+Midpoint X:  359.5535888671875
+Midpoint Y:  305.3734436035156
+width range -40.4464111328125
+pan servo angle 102.14732347109958
+height range 5.373443603515625
+
+Objects:
+person: 99.11%    (left_x: 360   top_y:  305   width:   134   height:  187)
+FPS: 14
+Midpoint X:  350.5238952636719
+Midpoint Y:  294.1144714355469
+width range -49.476104736328125
+pan servo angle 103.02577398200397
+height range -5.885528564453125
+
+Objects:
+person: 99.42%    (left_x: 351   top_y:  294   width:   129   height:  199)
+FPS: 14
+Midpoint X:  339.9851379394531
+Midpoint Y:  285.7733154296875
+width range -60.014862060546875
+pan servo angle 103.90422449290834
+height range -14.2266845703125
+
+Objects:
+person: 98.62%    (left_x: 340   top_y:  286   width:   108   height:  201)
+FPS: 14
+Midpoint X:  341.5846252441406
+Midpoint Y:  282.56121826171875
+width range -58.415374755859375
+pan servo angle 104.78267500381273
+height range -17.43878173828125
+
+Objects:
+person: 96.12%    (left_x: 342   top_y:  283   width:   103   height:  187)
+FPS: 14
+Midpoint X:  342.19561767578125
+Midpoint Y:  285.99395751953125
+width range -57.80438232421875
+pan servo angle 105.6611255147171
+height range -14.00604248046875
+
+Objects:
+person: 99.26%    (left_x: 342   top_y:  286   width:   93   height:  193)
+FPS: 14
+Midpoint X:  346.0660095214844
+Midpoint Y:  286.11273193359375
+width range -53.933990478515625
+pan servo angle 106.53957602562147
+height range -13.88726806640625
+
+Objects:
+person: 99.54%    (left_x: 346   top_y:  286   width:   94   height:  197)
+FPS: 14
+Midpoint X:  346.71319580078125
+Midpoint Y:  287.5563659667969
+width range -53.28680419921875
+pan servo angle 107.41802653652586
+height range -12.443634033203125
+
+Objects:
+person: 99.1%    (left_x: 347   top_y:  288   width:   94   height:  194)
+FPS: 14
+Midpoint X:  350.3167419433594
+Midpoint Y:  288.23455810546875
+width range -49.683258056640625
+pan servo angle 108.29647704743023
+height range -11.76544189453125
+
+Objects:
+person: 99.31%    (left_x: 350   top_y:  288   width:   101   height:  196)
+FPS: 14
+Midpoint X:  356.7518615722656
+Midpoint Y:  286.5709228515625
+width range -43.248138427734375
+pan servo angle 109.17492755833462
+height range -13.4290771484375
+
+Objects:
+person: 99.6%    (left_x: 357   top_y:  287   width:   92   height:  208)
+FPS: 14
+Midpoint X:  358.7823181152344
+Midpoint Y:  285.37469482421875
+width range -41.217681884765625
+pan servo angle 110.05337806923897
+height range -14.62530517578125
+
+Objects:
+person: 99.77%    (left_x: 359   top_y:  285   width:   89   height:  216)
+FPS: 14
+Midpoint X:  364.0152587890625
+Midpoint Y:  281.0636291503906
+width range -35.9847412109375
+height range -18.936370849609375
+
+Objects:
+person: 98.74%    (left_x: 364   top_y:  281   width:   99   height:  209)
+FPS: 14
+Midpoint X:  366.13861083984375
+Midpoint Y:  266.74365234375
+width range -33.86138916015625
+height range -33.25634765625
+servo angle 114.00640536830868
+
+Objects:
+person: 92.65%    (left_x: 366   top_y:  267   width:   108   height:  194)
+FPS: 14
+Midpoint X:  365.8689880371094
+Midpoint Y:  263.1419677734375
+width range -34.131011962890625
+height range -36.8580322265625
+servo angle 112.6887296019521
+
+Objects:
+person: 89.34%    (left_x: 366   top_y:  263   width:   113   height:  168)
+FPS: 14
+Midpoint X:  365.50225830078125
+Midpoint Y:  270.72161865234375
+width range -34.49774169921875
+height range -29.27838134765625
+
+Objects:
+person: 97.0%    (left_x: 366   top_y:  271   width:   109   height:  196)
+FPS: 14
+Midpoint X:  361.8879699707031
+Midpoint Y:  280.3808898925781
+width range -38.112030029296875
+height range -19.619110107421875
+
+Objects:
+person: 98.92%    (left_x: 362   top_y:  280   width:   105   height:  211)
+FPS: 14
+Midpoint X:  356.47332763671875
+Midpoint Y:  284.7758483886719
+width range -43.52667236328125
+pan servo angle 110.93182858014335
+height range -15.224151611328125
+
+Objects:
+person: 99.25%    (left_x: 356   top_y:  285   width:   105   height:  205)
+FPS: 14
+Midpoint X:  352.1918029785156
+Midpoint Y:  300.1534118652344
+width range -47.808197021484375
+pan servo angle 111.81027909104773
+height range 0.153411865234375
+
+Objects:
+person: 98.7%    (left_x: 352   top_y:  300   width:   121   height:  219)
+FPS: 14
+Midpoint X:  346.4306945800781
+Midpoint Y:  290.6113586425781
+width range -53.569305419921875
+pan servo angle 112.6887296019521
+height range -9.388641357421875
+
+Objects:
+person: 99.06%    (left_x: 346   top_y:  291   width:   126   height:  217)
+FPS: 14
+Midpoint X:  339.06640625
+Midpoint Y:  286.4239501953125
+width range -60.93359375
+pan servo angle 113.56718011285649
+height range -13.5760498046875
+
+Objects:
+person: 99.21%    (left_x: 339   top_y:  286   width:   118   height:  211)
+FPS: 14
+Midpoint X:  346.619140625
+Midpoint Y:  287.1746520996094
+width range -53.380859375
+pan servo angle 114.44563062376086
+height range -12.825347900390625
+
+Objects:
+person: 99.42%    (left_x: 347   top_y:  287   width:   110   height:  202)
+FPS: 14
+Midpoint X:  362.5335693359375
+Midpoint Y:  288.56695556640625
+width range -37.4664306640625
+height range -11.43304443359375
+
+Objects:
+person: 99.72%    (left_x: 363   top_y:  289   width:   102   height:  217)
+FPS: 14
+Midpoint X:  367.525146484375
+Midpoint Y:  287.95062255859375
+width range -32.474853515625
+height range -12.04937744140625
+
+Objects:
+person: 99.2%    (left_x: 368   top_y:  288   width:   124   height:  215)
+FPS: 14
+Midpoint X:  383.86114501953125
+Midpoint Y:  286.2042236328125
+width range -16.13885498046875
+height range -13.7957763671875
+
+Objects:
+person: 99.52%    (left_x: 384   top_y:  286   width:   102   height:  211)
+FPS: 14
+Midpoint X:  392.4252624511719
+Midpoint Y:  285.202392578125
+width range -7.574737548828125
+height range -14.797607421875
+
+Objects:
+person: 99.15%    (left_x: 392   top_y:  285   width:   106   height:  200)
+FPS: 14
+Midpoint X:  393.30511474609375
+Midpoint Y:  286.1219177246094
+width range -6.69488525390625
+height range -13.878082275390625
+
+Objects:
+person: 99.52%    (left_x: 393   top_y:  286   width:   104   height:  207)
+FPS: 14
+Midpoint X:  393.2599792480469
+Midpoint Y:  282.42633056640625
+width range -6.740020751953125
+height range -17.57366943359375
+
+Objects:
+person: 99.13%    (left_x: 393   top_y:  282   width:   106   height:  207)
+FPS: 13
+Midpoint X:  392.6529541015625
+Midpoint Y:  280.3418884277344
+width range -7.3470458984375
+height range -19.658111572265625
+
+Objects:
+person: 98.78%    (left_x: 393   top_y:  280   width:   104   height:  208)
+FPS: 14
+Midpoint X:  391.49029541015625
+Midpoint Y:  270.4190368652344
+width range -8.50970458984375
+height range -29.580963134765625
+
+Objects:
+person: 99.33%    (left_x: 391   top_y:  270   width:   95   height:  214)
+FPS: 13
+Midpoint X:  389.9838562011719
+Midpoint Y:  270.40289306640625
+width range -10.016143798828125
+height range -29.59710693359375
+
+Objects:
+person: 99.38%    (left_x: 390   top_y:  270   width:   96   height:  212)
+FPS: 14
+Midpoint X:  386.3343200683594
+Midpoint Y:  270.49163818359375
+width range -13.665679931640625
+height range -29.50836181640625
+
+Objects:
+person: 99.23%    (left_x: 386   top_y:  270   width:   93   height:  207)
+FPS: 14
+Midpoint X:  381.6876525878906
+Midpoint Y:  268.7522888183594
+width range -18.312347412109375
+height range -31.247711181640625
+servo angle 111.37105383559555
+
+Objects:
+person: 99.52%    (left_x: 382   top_y:  269   width:   99   height:  205)
+FPS: 14
+Midpoint X:  378.3797302246094
+Midpoint Y:  267.6470947265625
+width range -21.620269775390625
+height range -32.3529052734375
+servo angle 110.05337806923897
+
+Objects:
+person: 99.56%    (left_x: 378   top_y:  268   width:   96   height:  206)
+FPS: 14
+Midpoint X:  376.11529541015625
+Midpoint Y:  267.4029235839844
+width range -23.88470458984375
+height range -32.597076416015625
+servo angle 108.73570230288243
+
+Objects:
+person: 99.4%    (left_x: 376   top_y:  267   width:   94   height:  205)
+FPS: 14
+Midpoint X:  375.4993896484375
+Midpoint Y:  268.169677734375
+width range -24.5006103515625
+height range -31.830322265625
+servo angle 107.41802653652586
+
+Objects:
+person: 99.43%    (left_x: 375   top_y:  268   width:   94   height:  204)
+FPS: 14
+Midpoint X:  376.32635498046875
+Midpoint Y:  279.61651611328125
+width range -23.67364501953125
+height range -20.38348388671875
+
+Objects:
+person: 98.54%    (left_x: 376   top_y:  280   width:   103   height:  217)
+FPS: 14
+Midpoint X:  374.9686584472656
+Midpoint Y:  295.63153076171875
+width range -25.031341552734375
+height range -4.36846923828125
+
+Objects:
+person: 99.47%    (left_x: 375   top_y:  296   width:   99   height:  236)
+FPS: 14
+Midpoint X:  377.87615966796875
+Midpoint Y:  316.67169189453125
+width range -22.12384033203125
+height range 16.67169189453125
+
+Objects:
+person: 99.37%    (left_x: 378   top_y:  317   width:   96   height:  208)
+FPS: 14
+Midpoint X:  378.2411193847656
+Midpoint Y:  334.3017272949219
+width range -21.758880615234375
+height range 34.301727294921875
+servo angle 108.29647704743023
+
+Objects:
+person: 99.49%    (left_x: 378   top_y:  334   width:   99   height:  220)
+FPS: 14
+Midpoint X:  378.9320983886719
+Midpoint Y:  339.56610107421875
+width range -21.067901611328125
+height range 39.56610107421875
+servo angle 109.17492755833462
+
+Objects:
+person: 99.48%    (left_x: 379   top_y:  340   width:   96   height:  215)
+FPS: 14
+Midpoint X:  379.16204833984375
+Midpoint Y:  339.24957275390625
+width range -20.83795166015625
+height range 39.24957275390625
+servo angle 110.05337806923897
+
+Objects:
+person: 99.5%    (left_x: 379   top_y:  339   width:   96   height:  215)
+FPS: 14
+Midpoint X:  375.40093994140625
+Midpoint Y:  335.7432861328125
+width range -24.59906005859375
+height range 35.7432861328125
+servo angle 110.93182858014335
+
+Objects:
+person: 99.5%    (left_x: 375   top_y:  336   width:   101   height:  235)
+FPS: 14
+Midpoint X:  375.6665954589844
+Midpoint Y:  335.81488037109375
+width range -24.333404541015625
+height range 35.81488037109375
+servo angle 111.81027909104773
+
+Objects:
+person: 99.52%    (left_x: 376   top_y:  336   width:   100   height:  236)
+FPS: 14
+Midpoint X:  380.4120178222656
+Midpoint Y:  336.97210693359375
+width range -19.587982177734375
+height range 36.97210693359375
+servo angle 112.6887296019521
+
+Objects:
+person: 99.53%    (left_x: 380   top_y:  337   width:   99   height:  213)
+FPS: 14
+Midpoint X:  379.1443176269531
+Midpoint Y:  310.3684997558594
+width range -20.855682373046875
+height range 10.368499755859375
+
+Objects:
+person: 99.54%    (left_x: 379   top_y:  310   width:   101   height:  220)
+FPS: 14
+Midpoint X:  375.4040222167969
+Midpoint Y:  295.3154296875
+width range -24.595977783203125
+height range -4.6845703125
+
+Objects:
+person: 99.35%    (left_x: 375   top_y:  295   width:   100   height:  229)
+FPS: 14
+Midpoint X:  379.9659118652344
+Midpoint Y:  287.2882995605469
+width range -20.034088134765625
+height range -12.711700439453125
+
+Objects:
+person: 31.33%    (left_x: 229   top_y:  308   width:   52   height:  115)
+person: 99.53%    (left_x: 380   top_y:  287   width:   99   height:  220)
+FPS: 14
+Midpoint X:  379.6612854003906
+Midpoint Y:  273.57672119140625
+width range -20.338714599609375
+height range -26.42327880859375
+
+Objects:
+person: 98.22%    (left_x: 380   top_y:  274   width:   93   height:  210)
+FPS: 14
+Midpoint X:  378.3341979980469
+Midpoint Y:  278.3029479980469
+width range -21.665802001953125
+height range -21.697052001953125
+
+Objects:
+person: 98.0%    (left_x: 378   top_y:  278   width:   96   height:  217)
+FPS: 14
+Midpoint X:  378.63153076171875
+Midpoint Y:  278.6023864746094
+width range -21.36846923828125
+height range -21.397613525390625
+
+Objects:
+person: 98.13%    (left_x: 379   top_y:  279   width:   100   height:  216)
+FPS: 14
+Midpoint X:  378.36669921875
+Midpoint Y:  278.5235595703125
+width range -21.63330078125
+height range -21.4764404296875
+
+Objects:
+person: 97.85%    (left_x: 378   top_y:  279   width:   99   height:  215)
+FPS: 14
+Midpoint X:  377.67547607421875
+Midpoint Y:  278.63525390625
+width range -22.32452392578125
+height range -21.36474609375
+
+Objects:
+person: 97.74%    (left_x: 378   top_y:  279   width:   95   height:  215)
+FPS: 14
+Midpoint X:  377.1019592285156
+Midpoint Y:  278.64227294921875
+width range -22.898040771484375
+height range -21.35772705078125
+
+Objects:
+person: 98.13%    (left_x: 377   top_y:  279   width:   94   height:  214)
+FPS: 14
+Midpoint X:  376.63580322265625
+Midpoint Y:  278.77569580078125
+width range -23.36419677734375
+height range -21.22430419921875
+
+Objects:
+person: 98.15%    (left_x: 377   top_y:  279   width:   92   height:  214)
+FPS: 14
+Midpoint X:  376.17071533203125
+Midpoint Y:  278.7507019042969
+width range -23.82928466796875
+height range -21.249298095703125
+
+Objects:
+person: 97.72%    (left_x: 376   top_y:  279   width:   93   height:  211)
+FPS: 14
+Midpoint X:  375.557373046875
+Midpoint Y:  278.9695739746094
+width range -24.442626953125
+height range -21.030426025390625
+
+Objects:
+person: 97.8%    (left_x: 376   top_y:  279   width:   92   height:  211)
+FPS: 13
+Midpoint X:  375.21826171875
+Midpoint Y:  279.150390625
+width range -24.78173828125
+height range -20.849609375
+
+Objects:
+person: 97.59%    (left_x: 375   top_y:  279   width:   94   height:  209)
+FPS: 14
+Midpoint X:  374.1903076171875
+Midpoint Y:  279.24267578125
+width range -25.8096923828125
+height range -20.75732421875
+
+Objects:
+person: 97.78%    (left_x: 374   top_y:  279   width:   92   height:  207)
+FPS: 14
+Midpoint X:  373.75250244140625
+Midpoint Y:  279.046142578125
+width range -26.24749755859375
+height range -20.953857421875
+
+Objects:
+person: 97.87%    (left_x: 374   top_y:  279   width:   94   height:  209)
+FPS: 14
+Midpoint X:  373.5531005859375
+Midpoint Y:  279.071533203125
+width range -26.4468994140625
+height range -20.928466796875
+
+Objects:
+person: 97.76%    (left_x: 374   top_y:  279   width:   92   height:  209)
+FPS: 14
+Midpoint X:  373.481689453125
+Midpoint Y:  279.1177978515625
+width range -26.518310546875
+height range -20.8822021484375
+
+Objects:
+person: 98.05%    (left_x: 373   top_y:  279   width:   90   height:  213)
+FPS: 14
+Midpoint X:  376.072021484375
+Midpoint Y:  279.52813720703125
+width range -23.927978515625
+height range -20.47186279296875
+
+Objects:
+person: 55.53%    (left_x: 224   top_y:  291   width:   57   height:  99)
+person: 98.82%    (left_x: 376   top_y:  280   width:   94   height:  214)
+FPS: 14
+Midpoint X:  381.0018310546875
+Midpoint Y:  281.1565246582031
+width range -18.9981689453125
+height range -18.843475341796875
+
+Objects:
+person: 58.32%    (left_x: 225   top_y:  291   width:   56   height:  92)
+person: 99.54%    (left_x: 381   top_y:  281   width:   92   height:  219)
+FPS: 14
+Midpoint X:  388.5033874511719
+Midpoint Y:  282.7396240234375
+width range -11.496612548828125
+height range -17.2603759765625
+
+Objects:
+person: 36.41%    (left_x: 226   top_y:  291   width:   59   height:  90)
+person: 99.55%    (left_x: 389   top_y:  283   width:   97   height:  210)
+FPS: 14
+Midpoint X:  393.6081237792969
+Midpoint Y:  282.6568603515625
+width range -6.391876220703125
+height range -17.3431396484375
+
+Objects:
+person: 99.54%    (left_x: 394   top_y:  283   width:   97   height:  208)
+FPS: 14
+Midpoint X:  396.54901123046875
+Midpoint Y:  283.96014404296875
+width range -3.45098876953125
+height range -16.03985595703125
+
+Objects:
+person: 99.18%    (left_x: 397   top_y:  284   width:   104   height:  206)
+FPS: 14
+Midpoint X:  401.31884765625
+Midpoint Y:  283.5709533691406
+width range 1.31884765625
+height range -16.429046630859375
+
+Objects:
+person: 98.35%    (left_x: 401   top_y:  284   width:   89   height:  206)
+FPS: 14
+Midpoint X:  404.31781005859375
+Midpoint Y:  283.8344421386719
+width range 4.31781005859375
+height range -16.165557861328125
+
+Objects:
+person: 99.32%    (left_x: 404   top_y:  284   width:   93   height:  220)
+FPS: 14
+Midpoint X:  406.6393737792969
+Midpoint Y:  283.92022705078125
+width range 6.639373779296875
+height range -16.07977294921875
+
+Objects:
+person: 99.49%    (left_x: 407   top_y:  284   width:   96   height:  211)
+FPS: 14
+Midpoint X:  408.6836242675781
+Midpoint Y:  286.1111755371094
+width range 8.683624267578125
+height range -13.888824462890625
+
+Objects:
+person: 99.3%    (left_x: 409   top_y:  286   width:   96   height:  210)
+FPS: 14
+Midpoint X:  408.7998046875
+Midpoint Y:  287.0353698730469
+width range 8.7998046875
+height range -12.964630126953125
+
+Objects:
+person: 99.15%    (left_x: 409   top_y:  287   width:   97   height:  216)
+FPS: 14
+Midpoint X:  411.6236267089844
+Midpoint Y:  290.70819091796875
+width range 11.623626708984375
+height range -9.29180908203125
+
+Objects:
+person: 99.09%    (left_x: 412   top_y:  291   width:   106   height:  218)
+FPS: 14
+Midpoint X:  409.99017333984375
+Midpoint Y:  293.5242919921875
+width range 9.99017333984375
+height range -6.4757080078125
+
+Objects:
+person: 98.74%    (left_x: 410   top_y:  294   width:   104   height:  215)
+FPS: 14
+Midpoint X:  409.9461975097656
+Midpoint Y:  299.5613708496094
+width range 9.946197509765625
+height range -0.438629150390625
+
+Objects:
+person: 98.71%    (left_x: 410   top_y:  300   width:   101   height:  213)
+FPS: 14
+Midpoint X:  409.0184631347656
+Midpoint Y:  302.54620361328125
+width range 9.018463134765625
+height range 2.54620361328125
+
+Objects:
+person: 98.76%    (left_x: 409   top_y:  303   width:   104   height:  217)
+FPS: 14
+Midpoint X:  406.51373291015625
+Midpoint Y:  307.0967102050781
+width range 6.51373291015625
+height range 7.096710205078125
+
+Objects:
+person: 98.09%    (left_x: 407   top_y:  307   width:   105   height:  219)
+FPS: 14
+Midpoint X:  397.1081237792969
+Midpoint Y:  315.2130126953125
+width range -2.891876220703125
+height range 15.2130126953125
+
+Objects:
+person: 98.63%    (left_x: 397   top_y:  315   width:   111   height:  214)
+FPS: 14
+Midpoint X:  394.62030029296875
+Midpoint Y:  317.3713073730469
+width range -5.37969970703125
+height range 17.371307373046875
+
+Objects:
+person: 98.86%    (left_x: 395   top_y:  317   width:   109   height:  209)
+FPS: 14
+Midpoint X:  389.5272521972656
+Midpoint Y:  318.6023254394531
+width range -10.472747802734375
+height range 18.602325439453125
+
+Objects:
+person: 98.36%    (left_x: 390   top_y:  319   width:   101   height:  212)
+FPS: 14
+Midpoint X:  387.0071105957031
+Midpoint Y:  331.65789794921875
+width range -12.992889404296875
+height range 31.65789794921875
+servo angle 113.56718011285649
+
+Objects:
+person: 99.41%    (left_x: 387   top_y:  332   width:   106   height:  214)
+FPS: 14
+Midpoint X:  383.2312927246094
+Midpoint Y:  334.6985168457031
+width range -16.768707275390625
+height range 34.698516845703125
+servo angle 114.44563062376086
+
+Objects:
+person: 98.61%    (left_x: 383   top_y:  335   width:   102   height:  233)
+FPS: 14
+Midpoint X:  377.64385986328125
+Midpoint Y:  339.82672119140625
+width range -22.35614013671875
+height range 39.82672119140625
+servo angle 115.32408113466524
+
+Objects:
+person: 94.42%    (left_x: 378   top_y:  340   width:   110   height:  266)
+FPS: 14
+Midpoint X:  375.8482971191406
+Midpoint Y:  344.44476318359375
+width range -24.151702880859375
+height range 44.44476318359375
+servo angle 116.20253164556962
+
+Objects:
+person: 95.31%    (left_x: 376   top_y:  344   width:   111   height:  260)
+FPS: 14
+Midpoint X:  374.1686096191406
+Midpoint Y:  334.1011047363281
+width range -25.831390380859375
+height range 34.101104736328125
+servo angle 117.080982156474
+
+Objects:
+person: 93.74%    (left_x: 374   top_y:  334   width:   119   height:  251)
+FPS: 14
+Midpoint X:  367.67718505859375
+Midpoint Y:  333.949462890625
+width range -32.32281494140625
+height range 33.949462890625
+servo angle 117.95943266737838
+
+Objects:
+person: 96.95%    (left_x: 368   top_y:  334   width:   129   height:  223)
+FPS: 14
+Midpoint X:  364.7392578125
+Midpoint Y:  328.2092590332031
+width range -35.2607421875
+height range 28.209259033203125
+
+Objects:
+person: 97.15%    (left_x: 365   top_y:  328   width:   127   height:  227)
+FPS: 14
+Midpoint X:  362.85882568359375
+Midpoint Y:  315.02081298828125
+width range -37.14117431640625
+height range 15.02081298828125
+
+Objects:
+person: 97.16%    (left_x: 363   top_y:  315   width:   122   height:  248)
+FPS: 14
+Midpoint X:  355.31768798828125
+Midpoint Y:  315.7733154296875
+width range -44.68231201171875
+pan servo angle 115.32408113466524
+height range 15.7733154296875
+
+Objects:
+person: 98.13%    (left_x: 355   top_y:  316   width:   131   height:  274)
+FPS: 14
+Midpoint X:  350.7998962402344
+Midpoint Y:  312.24688720703125
+width range -49.200103759765625
+pan servo angle 116.20253164556962
+height range 12.24688720703125
+
+Objects:
+person: 99.59%    (left_x: 351   top_y:  312   width:   124   height:  275)
+FPS: 14
+Midpoint X:  347.6244812011719
+Midpoint Y:  314.7333984375
+width range -52.375518798828125
+pan servo angle 117.080982156474
+height range 14.7333984375
+
+Objects:
+person: 98.72%    (left_x: 348   top_y:  315   width:   136   height:  276)
+FPS: 14
+Midpoint X:  343.0800476074219
+Midpoint Y:  316.08746337890625
+width range -56.919952392578125
+pan servo angle 117.95943266737838
+height range 16.08746337890625
+
+Objects:
+person: 96.78%    (left_x: 343   top_y:  316   width:   137   height:  280)
+FPS: 14
+Midpoint X:  345.571044921875
+Midpoint Y:  316.5834655761719
+width range -54.428955078125
+pan servo angle 118.83788317828275
+height range 16.583465576171875
+
+Objects:
+person: 94.02%    (left_x: 346   top_y:  317   width:   156   height:  276)
+FPS: 14
+Midpoint X:  351.105224609375
+Midpoint Y:  330.8821716308594
+width range -48.894775390625
+pan servo angle 119.71633368918714
+height range 30.882171630859375
+servo angle 118.83788317828275
+
+Objects:
+person: 97.02%    (left_x: 351   top_y:  331   width:   113   height:  240)
+FPS: 14
+Midpoint X:  365.27044677734375
+Midpoint Y:  333.1683654785156
+width range -34.72955322265625
+height range 33.168365478515625
+servo angle 119.71633368918714
+
+Objects:
+person: 98.72%    (left_x: 365   top_y:  333   width:   101   height:  258)
+FPS: 14
+Midpoint X:  371.9911804199219
+Midpoint Y:  351.1593017578125
+width range -28.008819580078125
+height range 51.1593017578125
+servo angle 120.59478420009151
+
+Objects:
+person: 93.77%    (left_x: 372   top_y:  351   width:   120   height:  279)
+FPS: 14
+Midpoint X:  382.2298278808594
+Midpoint Y:  359.6311340332031
+width range -17.770172119140625
+height range 59.631134033203125
+servo angle 121.4732347109959
+
+Objects:
+person: 98.03%    (left_x: 382   top_y:  360   width:   129   height:  291)
+FPS: 14
+Midpoint X:  404.0373229980469
+Midpoint Y:  354.29425048828125
+width range 4.037322998046875
+height range 54.29425048828125
+servo angle 122.35168522190027
+
+Objects:
+person: 98.44%    (left_x: 404   top_y:  354   width:   114   height:  259)
+FPS: 14
+Midpoint X:  409.072021484375
+Midpoint Y:  335.466552734375
+width range 9.072021484375
+height range 35.466552734375
+servo angle 123.23013573280463
+
+Objects:
+person: 94.26%    (left_x: 409   top_y:  335   width:   118   height:  261)
+FPS: 14
+Midpoint X:  410.5345764160156
+Midpoint Y:  335.640380859375
+width range 10.534576416015625
+height range 35.640380859375
+servo angle 124.108586243709
+
+Objects:
+person: 94.38%    (left_x: 411   top_y:  336   width:   123   height:  224)
+FPS: 14
+Midpoint X:  411.05743408203125
+Midpoint Y:  326.1857604980469
+width range 11.05743408203125
+height range 26.185760498046875
+
+Objects:
+person: 78.33%    (left_x: 411   top_y:  326   width:   115   height:  222)
+FPS: 14
+Midpoint X:  413.9961853027344
+Midpoint Y:  311.0464172363281
+width range 13.996185302734375
+height range 11.046417236328125
+
+Objects:
+person: 96.12%    (left_x: 414   top_y:  311   width:   120   height:  209)
+FPS: 14
+Midpoint X:  414.38427734375
+Midpoint Y:  313.83099365234375
+width range 14.38427734375
+height range 13.83099365234375
+
+Objects:
+person: 96.65%    (left_x: 414   top_y:  314   width:   121   height:  268)
+FPS: 14
+Midpoint X:  416.1938781738281
+Midpoint Y:  310.1777648925781
+width range 16.193878173828125
+height range 10.177764892578125
+
+Objects:
+person: 98.78%    (left_x: 416   top_y:  310   width:   117   height:  254)
+FPS: 14
+Midpoint X:  412.7467041015625
+Midpoint Y:  306.78240966796875
+width range 12.7467041015625
+height range 6.78240966796875
+
+Objects:
+person: 98.66%    (left_x: 413   top_y:  307   width:   122   height:  260)
+FPS: 14
+Midpoint X:  412.63189697265625
+Midpoint Y:  308.9178466796875
+width range 12.63189697265625
+height range 8.9178466796875
+
+Objects:
+person: 97.94%    (left_x: 413   top_y:  309   width:   124   height:  254)
+FPS: 14
+Midpoint X:  408.8654479980469
+Midpoint Y:  314.4504089355469
+width range 8.865447998046875
+height range 14.450408935546875
+
+Objects:
+person: 95.0%    (left_x: 409   top_y:  314   width:   115   height:  220)
+FPS: 14
+Midpoint X:  406.3510437011719
+Midpoint Y:  316.1879577636719
+width range 6.351043701171875
+height range 16.187957763671875
+
+Objects:
+person: 89.03%    (left_x: 406   top_y:  316   width:   114   height:  221)
+FPS: 14
+Midpoint X:  408.9100341796875
+Midpoint Y:  318.19366455078125
+width range 8.9100341796875
+height range 18.19366455078125
+
+Objects:
+person: 92.29%    (left_x: 409   top_y:  318   width:   124   height:  220)
+FPS: 14
+Midpoint X:  404.1053161621094
+Midpoint Y:  325.6580810546875
+width range 4.105316162109375
+height range 25.6580810546875
+
+Objects:
+person: 95.73%    (left_x: 404   top_y:  326   width:   114   height:  221)
+FPS: 14
+Midpoint X:  404.8653259277344
+Midpoint Y:  329.78155517578125
+width range 4.865325927734375
+height range 29.78155517578125
+
+Objects:
+person: 98.64%    (left_x: 405   top_y:  330   width:   115   height:  211)
+FPS: 14
+Midpoint X:  406.40753173828125
+Midpoint Y:  335.8537902832031
+width range 6.40753173828125
+height range 35.853790283203125
+servo angle 124.98703675461338
+
+Objects:
+person: 97.33%    (left_x: 406   top_y:  336   width:   107   height:  218)
+FPS: 13
+Midpoint X:  408.24273681640625
+Midpoint Y:  341.92535400390625
+width range 8.24273681640625
+height range 41.92535400390625
+servo angle 125.86548726551776
+
+Objects:
+person: 96.66%    (left_x: 408   top_y:  342   width:   115   height:  235)
+FPS: 14
+Midpoint X:  410.3629150390625
+Midpoint Y:  358.7828063964844
+width range 10.3629150390625
+height range 58.782806396484375
+servo angle 126.74393777642214
+
+Objects:
+person: 98.63%    (left_x: 410   top_y:  359   width:   106   height:  232)
+FPS: 14
+Midpoint X:  415.2626953125
+Midpoint Y:  363.8397521972656
+width range 15.2626953125
+height range 63.839752197265625
+servo angle 127.62238828732652
+
+Objects:
+person: 92.26%    (left_x: 415   top_y:  364   width:   120   height:  199)
+FPS: 14
+Midpoint X:  421.4611511230469
+Midpoint Y:  377.0504150390625
+width range 21.461151123046875
+height range 77.0504150390625
+servo angle 128.5008387982309
+
+Objects:
+person: 95.52%    (left_x: 421   top_y:  377   width:   160   height:  198)
+FPS: 14
+Midpoint X:  437.54779052734375
+Midpoint Y:  382.1561279296875
+width range 37.54779052734375
+height range 82.1561279296875
+servo angle 129.3792893091353
+
+Objects:
+person: 88.69%    (left_x: 438   top_y:  382   width:   149   height:  191)
+FPS: 14
+Midpoint X:  442.8002014160156
+Midpoint Y:  379.631591796875
+width range 42.800201416015625
+pan servo angle 118.39865792283057
+height range 79.631591796875
+servo angle 130.25773982003966
+
+Objects:
+person: 98.81%    (left_x: 443   top_y:  380   width:   159   height:  192)
+FPS: 14
+Midpoint X:  440.68206787109375
+Midpoint Y:  378.56097412109375
+width range 40.68206787109375
+pan servo angle 117.080982156474
+height range 78.56097412109375
+servo angle 131.13619033094403
+
+Objects:
+person: 97.73%    (left_x: 441   top_y:  379   width:   118   height:  198)
+FPS: 14
+Midpoint X:  445.5685729980469
+Midpoint Y:  379.4103698730469
+width range 45.568572998046875
+pan servo angle 115.76330639011744
+height range 79.41036987304688
+servo angle 132.0146408418484
+
+Objects:
+person: 97.61%    (left_x: 446   top_y:  379   width:   125   height:  200)
+FPS: 14
+Midpoint X:  443.121826171875
+Midpoint Y:  406.96905517578125
+width range 43.121826171875
+pan servo angle 114.44563062376086
+height range 106.96905517578125
+servo angle 132.89309135275278
+
+Objects:
+person: 99.12%    (left_x: 443   top_y:  407   width:   128   height:  272)
+FPS: 14
+Midpoint X:  450.62750244140625
+Midpoint Y:  418.716796875
+width range 50.62750244140625
+pan servo angle 113.12795485740429
+height range 118.716796875
+servo angle 133.77154186365718
+
+Objects:
+person: 87.36%    (left_x: 451   top_y:  419   width:   142   height:  222)
+FPS: 14
+Midpoint X:  442.89178466796875
+Midpoint Y:  417.4068908691406
+width range 42.89178466796875
+pan servo angle 111.81027909104773
+height range 117.40689086914062
+servo angle 134.64999237456155
+
+Objects:
+person: 95.01%    (left_x: 443   top_y:  417   width:   120   height:  225)
+FPS: 14
+Midpoint X:  435.7002868652344
+Midpoint Y:  400.42413330078125
+width range 35.700286865234375
+height range 100.42413330078125
+servo angle 135.52844288546592
+
+Objects:
+person: 97.78%    (left_x: 436   top_y:  400   width:   113   height:  215)
+FPS: 14
+Midpoint X:  438.27630615234375
+Midpoint Y:  405.5599670410156
+width range 38.27630615234375
+height range 105.55996704101562
+servo angle 136.4068933963703
+
+Objects:
+person: 98.95%    (left_x: 438   top_y:  406   width:   119   height:  224)
+FPS: 14
+Midpoint X:  428.14501953125
+Midpoint Y:  405.9122314453125
+width range 28.14501953125
+height range 105.9122314453125
+servo angle 137.28534390727467
+
+Objects:
+person: 73.89%    (left_x: 428   top_y:  406   width:   124   height:  210)
+FPS: 14
+Midpoint X:  434.763916015625
+Midpoint Y:  417.7269592285156
+width range 34.763916015625
+height range 117.72695922851562
+servo angle 138.16379441817904
+
+Objects:
+person: 78.26%    (left_x: 435   top_y:  418   width:   114   height:  225)
+FPS: 14
+Midpoint X:  435.2083740234375
+Midpoint Y:  417.2920227050781
+width range 35.2083740234375
+height range 117.29202270507812
+servo angle 139.0422449290834
+
+Objects:
+person: 88.9%    (left_x: 435   top_y:  417   width:   115   height:  228)
+FPS: 14
+Midpoint X:  435.32098388671875
+Midpoint Y:  400.7994079589844
+width range 35.32098388671875
+height range 100.79940795898438
+
+Objects:
+person: 97.63%    (left_x: 435   top_y:  401   width:   113   height:  213)
+FPS: 14
+Midpoint X:  436.9915466308594
+Midpoint Y:  394.05401611328125
+width range 36.991546630859375
+height range 94.05401611328125
+
+Objects:
+person: 98.27%    (left_x: 437   top_y:  394   width:   128   height:  216)
+FPS: 14
+Midpoint X:  439.9984436035156
+Midpoint Y:  384.95831298828125
+width range 39.998443603515625
+height range 84.95831298828125
+
+Objects:
+person: 98.37%    (left_x: 440   top_y:  385   width:   128   height:  212)
+FPS: 14
+Midpoint X:  439.1384582519531
+Midpoint Y:  380.41986083984375
+width range 39.138458251953125
+height range 80.41986083984375
+
+Objects:
+person: 97.08%    (left_x: 439   top_y:  380   width:   121   height:  211)
+FPS: 14
+Midpoint X:  436.99688720703125
+Midpoint Y:  391.07147216796875
+width range 36.99688720703125
+height range 91.07147216796875
+
+Objects:
+person: 92.51%    (left_x: 437   top_y:  391   width:   130   height:  219)
+FPS: 14
+Midpoint X:  421.7127380371094
+Midpoint Y:  399.3299865722656
+width range 21.712738037109375
+height range 99.32998657226562
+
+Objects:
+person: 98.08%    (left_x: 422   top_y:  399   width:   144   height:  194)
+FPS: 14
+Midpoint X:  413.0799255371094
+Midpoint Y:  402.59039306640625
+width range 13.079925537109375
+height range 102.59039306640625
+
+Objects:
+person: 99.33%    (left_x: 413   top_y:  403   width:   126   height:  191)
+FPS: 14
+Midpoint X:  414.5103454589844
+Midpoint Y:  405.650634765625
+width range 14.510345458984375
+height range 105.650634765625
+
+Objects:
+person: 98.25%    (left_x: 415   top_y:  406   width:   125   height:  208)
+FPS: 14
+Midpoint X:  409.99212646484375
+Midpoint Y:  406.4807434082031
+width range 9.99212646484375
+height range 106.48074340820312
+
+Objects:
+person: 98.85%    (left_x: 410   top_y:  406   width:   123   height:  194)
+FPS: 14
+Midpoint X:  406.8590087890625
+Midpoint Y:  407.1465148925781
+width range 6.8590087890625
+height range 107.14651489257812
+
+Objects:
+person: 98.62%    (left_x: 407   top_y:  407   width:   132   height:  201)
+FPS: 14
+Midpoint X:  405.0024108886719
+Midpoint Y:  406.5753173828125
+width range 5.002410888671875
+height range 106.5753173828125
+
+Objects:
+person: 97.63%    (left_x: 405   top_y:  407   width:   133   height:  196)
+FPS: 14
+Midpoint X:  407.1616516113281
+Midpoint Y:  406.9991760253906
+width range 7.161651611328125
+height range 106.99917602539062
+
+Objects:
+person: 97.11%    (left_x: 407   top_y:  407   width:   125   height:  198)
+FPS: 14
+Midpoint X:  409.7668151855469
+Midpoint Y:  407.313720703125
+width range 9.766815185546875
+height range 107.313720703125
+
+Objects:
+person: 97.35%    (left_x: 410   top_y:  407   width:   123   height:  195)
+FPS: 14
+Midpoint X:  411.474609375
+Midpoint Y:  407.96453857421875
+width range 11.474609375
+height range 107.96453857421875
+
+Objects:
+person: 97.06%    (left_x: 411   top_y:  408   width:   125   height:  194)
+FPS: 14
+Midpoint X:  409.2237548828125
+Midpoint Y:  408.13104248046875
+width range 9.2237548828125
+height range 108.13104248046875
+
+Objects:
+person: 94.55%    (left_x: 409   top_y:  408   width:   121   height:  176)
+FPS: 14
+Midpoint X:  408.1062316894531
+Midpoint Y:  408.0699157714844
+width range 8.106231689453125
+height range 108.06991577148438
+
+Objects:
+person: 93.56%    (left_x: 408   top_y:  408   width:   129   height:  191)
+FPS: 14
+Midpoint X:  408.3025817871094
+Midpoint Y:  420.5495910644531
+width range 8.302581787109375
+height range 120.54959106445312
+
+Objects:
+person: 98.13%    (left_x: 408   top_y:  421   width:   123   height:  171)
+FPS: 13
+Midpoint X:  414.15643310546875
+Midpoint Y:  436.6383056640625
+width range 14.15643310546875
+height range 136.6383056640625
+
+Objects:
+person: 97.88%    (left_x: 414   top_y:  437   width:   122   height:  210)
+FPS: 14
+Midpoint X:  413.01470947265625
+Midpoint Y:  445.935302734375
+width range 13.01470947265625
+height range 145.935302734375
+
+Objects:
+person: 99.37%    (left_x: 413   top_y:  446   width:   123   height:  218)
+FPS: 14
+Midpoint X:  418.04791259765625
+Midpoint Y:  449.96337890625
+width range 18.04791259765625
+height range 149.96337890625
+
+Objects:
+person: 98.94%    (left_x: 418   top_y:  450   width:   130   height:  195)
+FPS: 14
+Midpoint X:  420.24755859375
+Midpoint Y:  454.68170166015625
+width range 20.24755859375
+height range 154.68170166015625
+
+Objects:
+person: 96.67%    (left_x: 420   top_y:  455   width:   131   height:  184)
+FPS: 14
+Midpoint X:  420.63580322265625
+Midpoint Y:  456.5059814453125
+width range 20.63580322265625
+height range 156.5059814453125
+
+Objects:
+person: 95.63%    (left_x: 421   top_y:  457   width:   129   height:  177)
+FPS: 14
+Midpoint X:  420.8908996582031
+Midpoint Y:  464.55914306640625
+width range 20.890899658203125
+height range 164.55914306640625
+
+Objects:
+person: 93.46%    (left_x: 421   top_y:  465   width:   149   height:  178)
+FPS: 14
+Midpoint X:  419.7861633300781
+Midpoint Y:  467.23419189453125
+width range 19.786163330078125
+height range 167.23419189453125
+
+Objects:
+person: 98.0%    (left_x: 420   top_y:  467   width:   140   height:  180)
+FPS: 14
+Midpoint X:  417.0889892578125
+Midpoint Y:  467.2239990234375
+width range 17.0889892578125
+height range 167.2239990234375
+
+Objects:
+person: 99.17%    (left_x: 417   top_y:  467   width:   138   height:  176)
+FPS: 14
+Midpoint X:  412.2462158203125
+Midpoint Y:  470.8184509277344
+width range 12.2462158203125
+height range 170.81845092773438
+
+Objects:
+person: 98.94%    (left_x: 412   top_y:  471   width:   132   height:  165)
+FPS: 14
+Midpoint X:  411.5259704589844
+Midpoint Y:  471.1673889160156
+width range 11.525970458984375
+height range 171.16738891601562
+
+Objects:
+person: 98.65%    (left_x: 412   top_y:  471   width:   140   height:  167)
+FPS: 14
+Midpoint X:  411.5006103515625
+Midpoint Y:  471.755859375
+width range 11.5006103515625
+height range 171.755859375
+
+Objects:
+person: 98.76%    (left_x: 412   top_y:  472   width:   137   height:  165)
+FPS: 14
+Midpoint X:  413.5815734863281
+Midpoint Y:  473.0097351074219
+width range 13.581573486328125
+height range 173.00973510742188
+
+Objects:
+person: 98.65%    (left_x: 414   top_y:  473   width:   136   height:  163)
+FPS: 14
+Midpoint X:  418.37481689453125
+Midpoint Y:  473.13287353515625
+width range 18.37481689453125
+height range 173.13287353515625
+
+Objects:
+person: 98.34%    (left_x: 418   top_y:  473   width:   120   height:  172)
+FPS: 14
+Midpoint X:  417.5793151855469
+Midpoint Y:  474.4134216308594
+width range 17.579315185546875
+height range 174.41342163085938
+
+Objects:
+person: 98.77%    (left_x: 418   top_y:  474   width:   139   height:  159)
+FPS: 14
+Midpoint X:  417.5789794921875
+Midpoint Y:  473.9525451660156
+width range 17.5789794921875
+height range 173.95254516601562
+
+Objects:
+person: 99.15%    (left_x: 418   top_y:  474   width:   136   height:  156)
+FPS: 14
+Midpoint X:  419.529052734375
+Midpoint Y:  473.7708435058594
+width range 19.529052734375
+height range 173.77084350585938
+
+Objects:
+person: 99.23%    (left_x: 420   top_y:  474   width:   134   height:  152)
+FPS: 13
+Midpoint X:  420.625244140625
+Midpoint Y:  477.11712646484375
+width range 20.625244140625
+height range 177.11712646484375
+
+Objects:
+person: 98.47%    (left_x: 421   top_y:  477   width:   129   height:  144)
+FPS: 14
+Midpoint X:  421.3357849121094
+Midpoint Y:  476.1761474609375
+width range 21.335784912109375
+height range 176.1761474609375
+
+Objects:
+person: 97.87%    (left_x: 421   top_y:  476   width:   127   height:  147)
+FPS: 14
+Midpoint X:  422.7784118652344
+Midpoint Y:  475.8680419921875
+width range 22.778411865234375
+height range 175.8680419921875
+
+Objects:
+person: 97.14%    (left_x: 423   top_y:  476   width:   129   height:  147)
+FPS: 14
+Midpoint X:  423.8023376464844
+Midpoint Y:  476.1568298339844
+width range 23.802337646484375
+height range 176.15682983398438
+
+Objects:
+person: 97.29%    (left_x: 424   top_y:  476   width:   130   height:  149)
+FPS: 14
+Midpoint X:  424.2977294921875
+Midpoint Y:  474.9963684082031
+width range 24.2977294921875
+height range 174.99636840820312
+
+Objects:
+person: 97.37%    (left_x: 424   top_y:  475   width:   131   height:  148)
+FPS: 14
+Midpoint X:  425.4576721191406
+Midpoint Y:  474.7283630371094
+width range 25.457672119140625
+height range 174.72836303710938
+
+Objects:
+person: 96.47%    (left_x: 425   top_y:  475   width:   136   height:  154)
+FPS: 14
+Midpoint X:  425.80609130859375
+Midpoint Y:  474.1238098144531
+width range 25.80609130859375
+height range 174.12380981445312
+
+Objects:
+person: 95.62%    (left_x: 426   top_y:  474   width:   129   height:  152)
+FPS: 14
+Midpoint X:  426.54425048828125
+Midpoint Y:  471.1357421875
+width range 26.54425048828125
+height range 171.1357421875
+
+Objects:
+person: 95.96%    (left_x: 427   top_y:  471   width:   126   height:  148)
+FPS: 13
+Midpoint X:  425.4022521972656
+Midpoint Y:  468.7095031738281
+width range 25.402252197265625
+height range 168.70950317382812
+
+Objects:
+person: 98.27%    (left_x: 425   top_y:  469   width:   135   height:  156)
+FPS: 14
+Midpoint X:  423.3525390625
+Midpoint Y:  467.4757385253906
+width range 23.3525390625
+height range 167.47573852539062
+
+Objects:
+person: 99.13%    (left_x: 423   top_y:  467   width:   142   height:  156)
+FPS: 14
+Midpoint X:  422.639404296875
+Midpoint Y:  466.9202575683594
+width range 22.639404296875
+height range 166.92025756835938
+
+Objects:
+person: 99.35%    (left_x: 423   top_y:  467   width:   137   height:  153)
+FPS: 14
+Midpoint X:  421.48486328125
+Midpoint Y:  465.17279052734375
+width range 21.48486328125
+height range 165.17279052734375
+
+Objects:
+person: 99.19%    (left_x: 421   top_y:  465   width:   135   height:  152)
+FPS: 14
+Midpoint X:  421.27691650390625
+Midpoint Y:  458.1828918457031
+width range 21.27691650390625
+height range 158.18289184570312
+
+Objects:
+person: 98.36%    (left_x: 421   top_y:  458   width:   115   height:  148)
+FPS: 14
+Midpoint X:  423.86102294921875
+Midpoint Y:  454.83648681640625
+width range 23.86102294921875
+height range 154.83648681640625
+
+Objects:
+person: 99.32%    (left_x: 424   top_y:  455   width:   135   height:  154)
+FPS: 14
+Midpoint X:  426.57208251953125
+Midpoint Y:  451.1972351074219
+width range 26.57208251953125
+height range 151.19723510742188
+
+Objects:
+person: 96.09%    (left_x: 427   top_y:  451   width:   135   height:  161)
+FPS: 14
+Midpoint X:  442.2070617675781
+Midpoint Y:  450.1751708984375
+width range 42.207061767578125
+pan servo angle 110.49260332469116
+height range 150.1751708984375
+
+Objects:
+person: 98.51%    (left_x: 442   top_y:  450   width:   137   height:  165)
+FPS: 14
+Midpoint X:  457.8946228027344
+Midpoint Y:  438.9681091308594
+width range 57.894622802734375
+pan servo angle 109.17492755833462
+height range 138.96810913085938
+
+Objects:
+person: 97.63%    (left_x: 458   top_y:  439   width:   144   height:  187)
+FPS: 14
+Midpoint X:  466.7717590332031
+Midpoint Y:  434.7297058105469
+width range 66.77175903320312
+pan servo angle 107.85725179197804
+height range 134.72970581054688
+
+Objects:
+person: 93.47%    (left_x: 467   top_y:  435   width:   153   height:  189)
+FPS: 14
+Midpoint X:  472.0370178222656
+Midpoint Y:  425.3939208984375
+width range 72.03701782226562
+pan servo angle 106.53957602562147
+height range 125.3939208984375
+
+Objects:
+person: 98.29%    (left_x: 472   top_y:  425   width:   162   height:  185)
+FPS: 14
+Midpoint X:  481.3065185546875
+Midpoint Y:  409.41583251953125
+width range 81.3065185546875
+pan servo angle 105.22190025926491
+height range 109.41583251953125
+
+Objects:
+person: 98.67%    (left_x: 481   top_y:  409   width:   140   height:  198)
+FPS: 14
+Midpoint X:  501.0590515136719
+Midpoint Y:  390.3865051269531
+width range 101.05905151367188
+pan servo angle 103.90422449290834
+height range 90.38650512695312
+
+Objects:
+person: 97.63%    (left_x: 501   top_y:  390   width:   125   height:  207)
+FPS: 14
+Midpoint X:  497.9947509765625
+Midpoint Y:  379.01226806640625
+width range 97.9947509765625
+pan servo angle 102.58654872655178
+height range 79.01226806640625
+
+Objects:
+person: 96.11%    (left_x: 498   top_y:  379   width:   117   height:  202)
+FPS: 14
+Midpoint X:  496.39996337890625
+Midpoint Y:  373.4639892578125
+width range 96.39996337890625
+pan servo angle 101.26887296019521
+height range 73.4639892578125
+
+Objects:
+person: 94.44%    (left_x: 496   top_y:  373   width:   115   height:  219)
+FPS: 14
+Midpoint X:  484.6778259277344
+Midpoint Y:  357.1898193359375
+width range 84.67782592773438
+pan servo angle 99.95119719383864
+height range 57.1898193359375
+
+Objects:
+person: 95.15%    (left_x: 485   top_y:  357   width:   132   height:  190)
+FPS: 14
+Midpoint X:  485.08306884765625
+Midpoint Y:  346.0046691894531
+width range 85.08306884765625
+pan servo angle 98.63352142748208
+height range 46.004669189453125
+
+Objects:
+person: 95.86%    (left_x: 485   top_y:  346   width:   143   height:  214)
+FPS: 14
+Midpoint X:  479.63043212890625
+Midpoint Y:  336.70343017578125
+width range 79.63043212890625
+pan servo angle 97.31584566112551
+height range 36.70343017578125
+
+Objects:
+person: 97.78%    (left_x: 480   top_y:  337   width:   131   height:  211)
+FPS: 14
+Midpoint X:  472.5926818847656
+Midpoint Y:  327.7477111816406
+width range 72.59268188476562
+pan servo angle 95.99816989476896
+height range 27.747711181640625
+
+Objects:
+person: 98.62%    (left_x: 473   top_y:  328   width:   125   height:  188)
+FPS: 14
+Midpoint X:  468.4137878417969
+Midpoint Y:  326.0077819824219
+width range 68.41378784179688
+pan servo angle 94.68049412841239
+height range 26.007781982421875
+
+Objects:
+person: 91.8%    (left_x: 468   top_y:  326   width:   125   height:  181)
+FPS: 14
+Midpoint X:  469.597900390625
+Midpoint Y:  297.9632263183594
+width range 69.597900390625
+pan servo angle 93.36281836205582
+height range -2.036773681640625
+
+Objects:
+person: 90.98%    (left_x: 470   top_y:  298   width:   114   height:  216)
+FPS: 14
+Midpoint X:  467.08154296875
+Midpoint Y:  292.7244567871094
+width range 67.08154296875
+pan servo angle 92.04514259569926
+height range -7.275543212890625
+
+Objects:
+person: 86.12%    (left_x: 467   top_y:  293   width:   122   height:  205)
+FPS: 14
+Midpoint X:  464.0295104980469
+Midpoint Y:  291.5365905761719
+width range 64.02951049804688
+pan servo angle 90.72746682934269
+height range -8.463409423828125
+
+Objects:
+person: 76.24%    (left_x: 464   top_y:  292   width:   164   height:  222)
+FPS: 14
+Midpoint X:  456.0640869140625
+Midpoint Y:  285.46514892578125
+width range 56.0640869140625
+pan servo angle 89.40979106298612
+height range -14.53485107421875
+
+Objects:
+person: 93.03%    (left_x: 456   top_y:  285   width:   139   height:  203)
+FPS: 14
+Midpoint X:  452.65704345703125
+Midpoint Y:  270.9618835449219
+width range 52.65704345703125
+pan servo angle 88.09211529662956
+height range -29.038116455078125
+
+Objects:
+person: 98.43%    (left_x: 453   top_y:  271   width:   124   height:  196)
+FPS: 14
+Midpoint X:  444.6743469238281
+Midpoint Y:  260.39654541015625
+width range 44.674346923828125
+pan servo angle 86.77443953027299
+height range -39.60345458984375
+
+Objects:
+person: 99.48%    (left_x: 445   top_y:  260   width:   117   height:  203)
+FPS: 14
+Midpoint X:  438.15655517578125
+Midpoint Y:  259.247314453125
+width range 38.15655517578125
+height range -40.752685546875
+
+Objects:
+person: 98.84%    (left_x: 438   top_y:  259   width:   121   height:  208)
+FPS: 14
+Midpoint X:  426.3450622558594
+Midpoint Y:  253.04127502441406
+width range 26.345062255859375
+height range -46.95872497558594
+
+Objects:
+person: 98.23%    (left_x: 426   top_y:  253   width:   133   height:  215)
+FPS: 14
+Midpoint X:  411.2002258300781
+Midpoint Y:  252.2057647705078
+width range 11.200225830078125
+height range -47.79423522949219
+
+Objects:
+person: 98.61%    (left_x: 411   top_y:  252   width:   110   height:  207)
+FPS: 14
+Midpoint X:  401.8870849609375
+Midpoint Y:  252.4236602783203
+width range 1.8870849609375
+height range -47.57633972167969
+
+Objects:
+person: 98.42%    (left_x: 402   top_y:  252   width:   113   height:  199)
+FPS: 14
+Midpoint X:  400.60162353515625
+Midpoint Y:  248.58721923828125
+width range 0.60162353515625
+height range -51.41278076171875
+
+Objects:
+person: 97.71%    (left_x: 401   top_y:  249   width:   109   height:  192)
+FPS: 14
+Midpoint X:  395.95208740234375
+Midpoint Y:  241.78627014160156
+width range -4.04791259765625
+height range -58.21372985839844
+
+Objects:
+person: 97.81%    (left_x: 396   top_y:  242   width:   122   height:  186)
+FPS: 14
+Midpoint X:  402.74346923828125
+Midpoint Y:  237.46690368652344
+width range 2.74346923828125
+height range -62.53309631347656
+
+Objects:
+person: 96.52%    (left_x: 403   top_y:  237   width:   108   height:  189)
+FPS: 14
+Midpoint X:  405.3301696777344
+Midpoint Y:  237.71969604492188
+width range 5.330169677734375
+height range -62.280303955078125
+
+Objects:
+person: 98.53%    (left_x: 405   top_y:  238   width:   115   height:  178)
+FPS: 14
+Midpoint X:  410.9200439453125
+Midpoint Y:  238.32754516601562
+width range 10.9200439453125
+height range -61.672454833984375
+
+Objects:
+person: 98.47%    (left_x: 411   top_y:  238   width:   125   height:  174)
+FPS: 14
+Midpoint X:  417.2138671875
+Midpoint Y:  236.29876708984375
+width range 17.2138671875
+height range -63.70123291015625
+
+Objects:
+person: 97.96%    (left_x: 417   top_y:  236   width:   126   height:  182)
+FPS: 14
+Midpoint X:  425.2224426269531
+Midpoint Y:  235.1325225830078
+width range 25.222442626953125
+height range -64.86747741699219
+
+Objects:
+person: 96.87%    (left_x: 425   top_y:  235   width:   128   height:  187)
+FPS: 14
+Midpoint X:  437.3636169433594
+Midpoint Y:  232.9683074951172
+width range 37.363616943359375
+height range -67.03169250488281
+
+Objects:
+person: 93.74%    (left_x: 437   top_y:  233   width:   115   height:  200)
+FPS: 14
+Midpoint X:  445.15484619140625
+Midpoint Y:  225.77227783203125
+width range 45.15484619140625
+pan servo angle 85.45676376391643
+height range -74.22772216796875
+
+Objects:
+person: 92.49%    (left_x: 445   top_y:  226   width:   121   height:  203)
+FPS: 13
+Midpoint X:  451.2464904785156
+Midpoint Y:  225.1886444091797
+width range 51.246490478515625
+pan servo angle 84.13908799755986
+height range -74.81135559082031
+
+Objects:
+person: 97.98%    (left_x: 451   top_y:  225   width:   138   height:  198)
+FPS: 14
+Midpoint X:  457.1981506347656
+Midpoint Y:  226.01510620117188
+width range 57.198150634765625
+pan servo angle 82.8214122312033
+height range -73.98489379882812
+
+Objects:
+person: 95.56%    (left_x: 457   top_y:  226   width:   130   height:  199)
+FPS: 14
+Midpoint X:  468.7788391113281
+Midpoint Y:  225.0750732421875
+width range 68.77883911132812
+pan servo angle 81.50373646484672
+height range -74.9249267578125
+
+Objects:
+person: 93.43%    (left_x: 469   top_y:  225   width:   111   height:  217)
+FPS: 14
+Midpoint X:  457.477294921875
+Midpoint Y:  223.35015869140625
+width range 57.477294921875
+pan servo angle 80.18606069849015
+height range -76.64984130859375
+
+Objects:
+person: 94.66%    (left_x: 457   top_y:  223   width:   131   height:  198)
+FPS: 14
+Midpoint X:  455.81622314453125
+Midpoint Y:  222.08750915527344
+width range 55.81622314453125
+pan servo angle 78.86838493213361
+height range -77.91249084472656
+
+Objects:
+person: 91.8%    (left_x: 456   top_y:  222   width:   131   height:  198)
+FPS: 14
+Midpoint X:  453.6485290527344
+Midpoint Y:  234.37200927734375
+width range 53.648529052734375
+pan servo angle 77.55070916577704
+height range -65.62799072265625
+
+Objects:
+person: 93.82%    (left_x: 454   top_y:  234   width:   122   height:  206)
+FPS: 14
+Midpoint X:  447.5018005371094
+Midpoint Y:  233.87586975097656
+width range 47.501800537109375
+pan servo angle 76.23303339942046
+height range -66.12413024902344
+
+Objects:
+person: 94.29%    (left_x: 448   top_y:  234   width:   124   height:  220)
+FPS: 14
+Midpoint X:  445.459228515625
+Midpoint Y:  234.40762329101562
+width range 45.459228515625
+pan servo angle 74.9153576330639
+height range -65.59237670898438
+
+Objects:
+person: 97.15%    (left_x: 445   top_y:  234   width:   120   height:  216)
+FPS: 14
+Midpoint X:  438.23095703125
+Midpoint Y:  235.06475830078125
+width range 38.23095703125
+height range -64.93524169921875
+
+Objects:
+person: 95.12%    (left_x: 438   top_y:  235   width:   119   height:  214)
+FPS: 14
+Midpoint X:  436.494384765625
+Midpoint Y:  236.9383544921875
+width range 36.494384765625
+height range -63.0616455078125
+
+Objects:
+person: 96.35%    (left_x: 436   top_y:  237   width:   112   height:  215)
+FPS: 14
+Midpoint X:  437.8669128417969
+Midpoint Y:  235.76815795898438
+width range 37.866912841796875
+height range -64.23184204101562
+
+Objects:
+person: 93.12%    (left_x: 438   top_y:  236   width:   114   height:  193)
+FPS: 14
+Midpoint X:  437.3119812011719
+Midpoint Y:  234.87567138671875
+width range 37.311981201171875
+height range -65.12432861328125
+
+Objects:
+person: 84.76%    (left_x: 437   top_y:  235   width:   118   height:  196)
+FPS: 14
+Midpoint X:  442.0481262207031
+Midpoint Y:  236.86167907714844
+width range 42.048126220703125
+pan servo angle 73.59768186670733
+height range -63.13832092285156
+
+Objects:
+person: 98.0%    (left_x: 442   top_y:  237   width:   106   height:  178)
+FPS: 14
+Midpoint X:  452.79119873046875
+Midpoint Y:  237.8919677734375
+width range 52.79119873046875
+pan servo angle 72.28000610035078
+height range -62.1080322265625
+
+Objects:
+person: 99.11%    (left_x: 453   top_y:  238   width:   121   height:  181)
+FPS: 14
+Midpoint X:  457.46630859375
+Midpoint Y:  238.2467041015625
+width range 57.46630859375
+pan servo angle 70.9623303339942
+height range -61.7532958984375
+
+Objects:
+person: 97.38%    (left_x: 457   top_y:  238   width:   124   height:  189)
+FPS: 14
+Midpoint X:  466.9716491699219
+Midpoint Y:  236.92796325683594
+width range 66.97164916992188
+pan servo angle 69.64465456763764
+height range -63.07203674316406
+
+Objects:
+person: 95.26%    (left_x: 467   top_y:  237   width:   107   height:  196)
+FPS: 14
+Midpoint X:  470.7690734863281
+Midpoint Y:  236.26158142089844
+width range 70.76907348632812
+pan servo angle 68.32697880128107
+height range -63.73841857910156
+
+Objects:
+person: 97.51%    (left_x: 471   top_y:  236   width:   125   height:  191)
+FPS: 14
+Midpoint X:  472.22576904296875
+Midpoint Y:  235.92117309570312
+width range 72.22576904296875
+pan servo angle 67.0093030349245
+height range -64.07882690429688
+
+Objects:
+person: 96.44%    (left_x: 472   top_y:  236   width:   120   height:  182)
+FPS: 14
+Midpoint X:  468.8594970703125
+Midpoint Y:  244.27728271484375
+width range 68.8594970703125
+pan servo angle 65.69162726856794
+height range -55.72271728515625
+
+Objects:
+person: 95.38%    (left_x: 469   top_y:  244   width:   104   height:  211)
+FPS: 14
+Midpoint X:  468.5428466796875
+Midpoint Y:  250.84222412109375
+width range 68.5428466796875
+pan servo angle 64.37395150221138
+height range -49.15777587890625
+
+Objects:
+person: 91.1%    (left_x: 469   top_y:  251   width:   103   height:  208)
+FPS: 14
+Midpoint X:  455.4163818359375
+Midpoint Y:  261.43731689453125
+width range 55.4163818359375
+pan servo angle 63.05627573585481
+height range -38.56268310546875
+
+Objects:
+person: 95.4%    (left_x: 455   top_y:  261   width:   119   height:  216)
+FPS: 14
+Midpoint X:  450.79345703125
+Midpoint Y:  267.79693603515625
+width range 50.79345703125
+pan servo angle 61.738599969498246
+height range -32.20306396484375
+
+Objects:
+person: 87.8%    (left_x: 451   top_y:  268   width:   117   height:  214)
+FPS: 14
+Midpoint X:  440.7449645996094
+Midpoint Y:  278.61761474609375
+width range 40.744964599609375
+pan servo angle 60.42092420314168
+height range -21.38238525390625
+
+Objects:
+person: 97.71%    (left_x: 441   top_y:  279   width:   115   height:  206)
+FPS: 14
+Midpoint X:  426.55987548828125
+Midpoint Y:  280.381103515625
+width range 26.55987548828125
+height range -19.618896484375
+
+Objects:
+person: 88.22%    (left_x: 427   top_y:  280   width:   130   height:  198)
+FPS: 14
+Midpoint X:  421.1313171386719
+Midpoint Y:  285.57940673828125
+width range 21.131317138671875
+height range -14.42059326171875
+
+Objects:
+person: 96.57%    (left_x: 421   top_y:  286   width:   121   height:  169)
+FPS: 14
+Midpoint X:  414.6712341308594
+Midpoint Y:  286.6183166503906
+width range 14.671234130859375
+height range -13.381683349609375
+
+Objects:
+person: 93.76%    (left_x: 415   top_y:  287   width:   117   height:  162)
+FPS: 14
+Midpoint X:  409.6083984375
+Midpoint Y:  292.0087585449219
+width range 9.6083984375
+height range -7.991241455078125
+
+Objects:
+person: 98.51%    (left_x: 410   top_y:  292   width:   110   height:  193)
+FPS: 14
+Midpoint X:  415.1228332519531
+Midpoint Y:  297.15032958984375
+width range 15.122833251953125
+height range -2.84967041015625
+
+Objects:
+person: 99.1%    (left_x: 415   top_y:  297   width:   121   height:  195)
+FPS: 14
+Midpoint X:  420.2424011230469
+Midpoint Y:  301.15643310546875
+width range 20.242401123046875
+height range 1.15643310546875
+
+Objects:
+person: 98.84%    (left_x: 420   top_y:  301   width:   123   height:  200)
+FPS: 14
+Midpoint X:  425.3094787597656
+Midpoint Y:  302.1322937011719
+width range 25.309478759765625
+height range 2.132293701171875
+
+Objects:
+person: 98.96%    (left_x: 425   top_y:  302   width:   125   height:  194)
+FPS: 14
+Midpoint X:  426.7036437988281
+Midpoint Y:  304.17889404296875
+width range 26.703643798828125
+height range 4.17889404296875
+
+Objects:
+person: 97.1%    (left_x: 427   top_y:  304   width:   129   height:  184)
+FPS: 14
+Midpoint X:  435.9071350097656
+Midpoint Y:  301.2122497558594
+width range 35.907135009765625
+height range 1.212249755859375
+
+Objects:
+person: 98.69%    (left_x: 436   top_y:  301   width:   114   height:  200)
+FPS: 14
+Midpoint X:  441.9478454589844
+Midpoint Y:  303.668212890625
+width range 41.947845458984375
+pan servo angle 59.10324843678512
+height range 3.668212890625
+
+Objects:
+person: 99.38%    (left_x: 442   top_y:  304   width:   115   height:  201)
+FPS: 14
+Midpoint X:  450.83123779296875
+Midpoint Y:  302.5843505859375
+width range 50.83123779296875
+pan servo angle 57.78557267042855
+height range 2.5843505859375
+
+Objects:
+person: 99.15%    (left_x: 451   top_y:  303   width:   120   height:  198)
+FPS: 14
+Midpoint X:  455.49859619140625
+Midpoint Y:  306.0499572753906
+width range 55.49859619140625
+pan servo angle 56.467896904071985
+height range 6.049957275390625
+
+Objects:
+person: 99.05%    (left_x: 455   top_y:  306   width:   112   height:  202)
+FPS: 14
+Midpoint X:  457.86431884765625
+Midpoint Y:  310.93292236328125
+width range 57.86431884765625
+pan servo angle 55.15022113771542
+height range 10.93292236328125
+
+Objects:
+person: 97.94%    (left_x: 458   top_y:  311   width:   111   height:  185)
+FPS: 14
+Midpoint X:  450.080810546875
+Midpoint Y:  313.26910400390625
+width range 50.080810546875
+pan servo angle 53.83254537135885
+height range 13.26910400390625
+
+Objects:
+person: 97.57%    (left_x: 450   top_y:  313   width:   118   height:  188)
+FPS: 14
+Midpoint X:  440.67706298828125
+Midpoint Y:  313.560791015625
+width range 40.67706298828125
+pan servo angle 52.51486960500229
+height range 13.560791015625
+
+Objects:
+person: 97.15%    (left_x: 441   top_y:  314   width:   122   height:  193)
+FPS: 14
+Midpoint X:  423.4225158691406
+Midpoint Y:  314.7630615234375
+width range 23.422515869140625
+height range 14.7630615234375
+
+Objects:
+person: 96.23%    (left_x: 423   top_y:  315   width:   122   height:  179)
+FPS: 14
+Midpoint X:  414.3542785644531
+Midpoint Y:  325.863037109375
+width range 14.354278564453125
+height range 25.863037109375
+
+Objects:
+person: 94.4%    (left_x: 414   top_y:  326   width:   128   height:  174)
+FPS: 14
+Midpoint X:  409.3557434082031
+Midpoint Y:  327.9985656738281
+width range 9.355743408203125
+height range 27.998565673828125
+
+Objects:
+person: 96.67%    (left_x: 409   top_y:  328   width:   123   height:  166)
+FPS: 14
+Midpoint X:  403.0020751953125
+Midpoint Y:  333.0703125
+width range 3.0020751953125
+height range 33.0703125
+
+Objects:
+person: 96.99%    (left_x: 403   top_y:  333   width:   109   height:  172)
+FPS: 14
+Midpoint X:  406.27728271484375
+Midpoint Y:  329.53582763671875
+width range 6.27728271484375
+height range 29.53582763671875
+
+Objects:
+person: 97.35%    (left_x: 406   top_y:  330   width:   117   height:  164)
+FPS: 14
+Midpoint X:  410.98486328125
+Midpoint Y:  330.09381103515625
+width range 10.98486328125
+height range 30.09381103515625
+
+Objects:
+person: 98.28%    (left_x: 411   top_y:  330   width:   117   height:  163)
+FPS: 14
+Midpoint X:  415.36016845703125
+Midpoint Y:  331.0518493652344
+width range 15.36016845703125
+height range 31.051849365234375
+
+Objects:
+person: 96.77%    (left_x: 415   top_y:  331   width:   118   height:  157)
+FPS: 14
+Midpoint X:  424.5541076660156
+Midpoint Y:  329.1182861328125
+width range 24.554107666015625
+height range 29.1182861328125
+
+Objects:
+person: 96.23%    (left_x: 425   top_y:  329   width:   126   height:  177)
+FPS: 14
+Midpoint X:  427.3148193359375
+Midpoint Y:  328.65411376953125
+width range 27.3148193359375
+height range 28.65411376953125
+
+Objects:
+person: 86.25%    (left_x: 427   top_y:  329   width:   153   height:  167)
+FPS: 14
+Midpoint X:  440.1200256347656
+Midpoint Y:  315.6316223144531
+width range 40.120025634765625
+pan servo angle 51.197193838645724
+height range 15.631622314453125
+
+Objects:
+person: 90.07%    (left_x: 440   top_y:  316   width:   121   height:  179)
+FPS: 14
+Midpoint X:  445.80255126953125
+Midpoint Y:  307.8486022949219
+width range 45.80255126953125
+pan servo angle 49.87951807228916
+height range 7.848602294921875
+
+Objects:
+person: 90.71%    (left_x: 446   top_y:  308   width:   118   height:  156)
+FPS: 14
+Midpoint X:  449.31243896484375
+Midpoint Y:  309.85626220703125
+width range 49.31243896484375
+pan servo angle 48.561842305932586
+height range 9.85626220703125
+
+Objects:
+person: 90.88%    (left_x: 449   top_y:  310   width:   122   height:  163)
+FPS: 14
+Midpoint X:  449.8039245605469
+Midpoint Y:  312.59075927734375
+width range 49.803924560546875
+pan servo angle 47.24416653957602
+height range 12.59075927734375
+
+Objects:
+person: 90.16%    (left_x: 450   top_y:  313   width:   125   height:  144)
+FPS: 14
+Midpoint X:  443.02783203125
+Midpoint Y:  310.3992004394531
+width range 43.02783203125
+pan servo angle 45.92649077321946
+height range 10.399200439453125
+
+Objects:
+person: 96.22%    (left_x: 443   top_y:  310   width:   117   height:  164)
+FPS: 14
+Midpoint X:  437.7137145996094
+Midpoint Y:  310.922607421875
+width range 37.713714599609375
+height range 10.922607421875
+
+Objects:
+person: 83.34%    (left_x: 438   top_y:  311   width:   124   height:  169)
+FPS: 14
+Midpoint X:  420.85284423828125
+Midpoint Y:  308.9573974609375
+width range 20.85284423828125
+height range 8.9573974609375
+
+Objects:
+person: 68.15%    (left_x: 421   top_y:  309   width:   132   height:  145)
+FPS: 14
+Midpoint X:  414.5123596191406
+Midpoint Y:  308.1519470214844
+width range 14.512359619140625
+height range 8.151947021484375
+
+Objects:
+person: 74.9%    (left_x: 415   top_y:  308   width:   145   height:  129)
+FPS: 14
+Midpoint X:  407.7644958496094
+Midpoint Y:  294.83880615234375
+width range 7.764495849609375
+height range -5.16119384765625
+
+Objects:
+person: 37.81%    (left_x: 408   top_y:  295   width:   149   height:  91)
+FPS: 14
+Midpoint X:  407.40069580078125
+Midpoint Y:  296.607421875
+width range 7.40069580078125
+height range -3.392578125
+
+Objects:
+person: 65.68%    (left_x: 407   top_y:  297   width:   132   height:  87)
+FPS: 14
+Midpoint X:  403.4617919921875
+Midpoint Y:  301.6771545410156
+width range 3.4617919921875
+height range 1.677154541015625
+
+Objects:
+person: 82.86%    (left_x: 403   top_y:  302   width:   114   height:  86)
+FPS: 14
+Midpoint X:  401.25189208984375
+Midpoint Y:  301.883056640625
+width range 1.25189208984375
+height range 1.883056640625
+
+Objects:
+person: 75.19%    (left_x: 401   top_y:  302   width:   114   height:  89)
+FPS: 14
+Midpoint X:  390.85919189453125
+Midpoint Y:  310.3871154785156
+width range -9.14080810546875
+height range 10.387115478515625
+
+Objects:
+person: 61.79%    (left_x: 391   top_y:  310   width:   108   height:  128)
+FPS: 14
+Midpoint X:  390.3216247558594
+Midpoint Y:  310.6519470214844
+width range -9.678375244140625
+height range 10.651947021484375
+
+Objects:
+person: 70.85%    (left_x: 390   top_y:  311   width:   109   height:  127)
+FPS: 14
+Midpoint X:  390.8229675292969
+Midpoint Y:  311.4189453125
+width range -9.177032470703125
+height range 11.4189453125
+
+Objects:
+person: 65.21%    (left_x: 391   top_y:  311   width:   106   height:  128)
+FPS: 14
+Midpoint X:  389.7921142578125
+Midpoint Y:  310.0616760253906
+width range -10.2078857421875
+height range 10.061676025390625
+
+Objects:
+person: 69.13%    (left_x: 390   top_y:  310   width:   88   height:  100)
+FPS: 14
+Midpoint X:  390.3429870605469
+Midpoint Y:  310.93084716796875
+width range -9.657012939453125
+height range 10.93084716796875
+
+Objects:
+person: 68.6%    (left_x: 390   top_y:  311   width:   106   height:  126)
+FPS: 14
+Midpoint X:  391.1881103515625
+Midpoint Y:  310.3124084472656
+width range -8.8118896484375
+height range 10.312408447265625
+
+Objects:
+person: 83.24%    (left_x: 391   top_y:  310   width:   105   height:  124)
+FPS: 14
+Midpoint X:  391.1995849609375
+Midpoint Y:  309.2313537597656
+width range -8.8004150390625
+height range 9.231353759765625
+
+Objects:
+person: 84.17%    (left_x: 391   top_y:  309   width:   107   height:  131)
+FPS: 14
+Midpoint X:  390.2275695800781
+Midpoint Y:  308.5589599609375
+width range -9.772430419921875
+height range 8.5589599609375
+
+Objects:
+person: 79.42%    (left_x: 390   top_y:  309   width:   108   height:  136)
+FPS: 14
+Midpoint X:  391.8349914550781
+Midpoint Y:  307.59014892578125
+width range -8.165008544921875
+height range 7.59014892578125
+
+Objects:
+person: 70.9%    (left_x: 392   top_y:  308   width:   115   height:  138)
+FPS: 14
+Midpoint X:  390.8331604003906
+Midpoint Y:  305.7200927734375
+width range -9.166839599609375
+height range 5.7200927734375
+
+Objects:
+person: 45.89%    (left_x: 391   top_y:  306   width:   113   height:  133)
+FPS: 14
+Midpoint X:  388.8010559082031
+Midpoint Y:  305.7550048828125
+width range -11.198944091796875
+height range 5.7550048828125
+
+Objects:
+person: 40.0%    (left_x: 389   top_y:  306   width:   115   height:  120)
+FPS: 14
+Midpoint X:  387.1452941894531
+Midpoint Y:  307.0166931152344
+width range -12.854705810546875
+height range 7.016693115234375
+
+Objects:
+person: 48.52%    (left_x: 387   top_y:  307   width:   121   height:  124)
+FPS: 14
+Midpoint X:  386.59130859375
+Midpoint Y:  294.2308044433594
+width range -13.40869140625
+height range -5.769195556640625
+
+Objects:
+person: 66.62%    (left_x: 387   top_y:  294   width:   98   height:  103)
+FPS: 14
+Midpoint X:  377.1358947753906
+Midpoint Y:  297.10205078125
+width range -22.864105224609375
+height range -2.89794921875
+
+Objects:
+person: 95.52%    (left_x: 377   top_y:  297   width:   121   height:  136)
+FPS: 14
+Midpoint X:  364.5445556640625
+Midpoint Y:  308.373291015625
+width range -35.4554443359375
+height range 8.373291015625
+
+Objects:
+person: 95.23%    (left_x: 365   top_y:  308   width:   139   height:  153)
+FPS: 14
+Midpoint X:  357.12225341796875
+Midpoint Y:  308.0318603515625
+width range -42.87774658203125
+pan servo angle 46.804941284123835
+height range 8.0318603515625
+
+Objects:
+person: 95.55%    (left_x: 357   top_y:  308   width:   153   height:  148)
+FPS: 14
+Midpoint X:  348.18463134765625
+Midpoint Y:  303.77008056640625
+width range -51.81536865234375
+pan servo angle 47.683391795028214
+height range 3.77008056640625
+
+Objects:
+person: 96.46%    (left_x: 348   top_y:  304   width:   124   height:  174)
+FPS: 14
+Midpoint X:  336.4696350097656
+Midpoint Y:  300.944091796875
+width range -63.530364990234375
+pan servo angle 48.561842305932586
+height range 0.944091796875
+
+Objects:
+person: 96.04%    (left_x: 336   top_y:  301   width:   123   height:  167)
+FPS: 14
+Midpoint X:  325.5711669921875
+Midpoint Y:  301.297119140625
+width range -74.4288330078125
+pan servo angle 49.440292816836966
+height range 1.297119140625
+
+Objects:
+person: 97.99%    (left_x: 326   top_y:  301   width:   126   height:  174)
+FPS: 14
+Midpoint X:  316.696533203125
+Midpoint Y:  293.43939208984375
+width range -83.303466796875
+pan servo angle 50.318743327741345
+height range -6.56060791015625
+
+Objects:
+person: 97.87%    (left_x: 317   top_y:  293   width:   113   height:  182)
+FPS: 14
+Midpoint X:  312.43463134765625
+Midpoint Y:  290.8443603515625
+width range -87.56536865234375
+pan servo angle 51.197193838645724
+height range -9.1556396484375
+
+Objects:
+person: 97.97%    (left_x: 312   top_y:  291   width:   114   height:  205)
+FPS: 14
+Midpoint X:  314.0913391113281
+Midpoint Y:  292.32159423828125
+width range -85.90866088867188
+pan servo angle 52.0756443495501
+height range -7.67840576171875
+
+Objects:
+person: 97.86%    (left_x: 314   top_y:  292   width:   114   height:  218)
+FPS: 14
+Midpoint X:  321.3941955566406
+Midpoint Y:  285.75421142578125
+width range -78.60580444335938
+pan servo angle 52.95409486045447
+height range -14.24578857421875
+
+Objects:
+person: 94.08%    (left_x: 321   top_y:  286   width:   138   height:  205)
+FPS: 14
+Midpoint X:  317.1676330566406
+Midpoint Y:  279.67938232421875
+width range -82.83236694335938
+pan servo angle 53.83254537135885
+height range -20.32061767578125
+
+Objects:
+person: 85.58%    (left_x: 317   top_y:  280   width:   135   height:  199)
+FPS: 14
+Midpoint X:  312.0317077636719
+Midpoint Y:  251.43287658691406
+width range -87.96829223632812
+pan servo angle 54.71099588226323
+height range -48.56712341308594
+
+Objects:
+person: 96.44%    (left_x: 312   top_y:  251   width:   111   height:  200)
+FPS: 14
+Midpoint X:  304.4678955078125
+Midpoint Y:  245.21949768066406
+width range -95.5321044921875
+pan servo angle 55.589446393167606
+height range -54.78050231933594
+
+Objects:
+person: 97.55%    (left_x: 304   top_y:  245   width:   131   height:  185)
+FPS: 14
+Midpoint X:  299.8105163574219
+Midpoint Y:  237.8714599609375
+width range -100.18948364257812
+pan servo angle 56.467896904071985
+height range -62.1285400390625
+
+Objects:
+person: 98.53%    (left_x: 300   top_y:  238   width:   134   height:  187)
+FPS: 14
+Midpoint X:  297.7551574707031
+Midpoint Y:  237.2644500732422
+width range -102.24484252929688
+pan servo angle 57.346347414976364
+height range -62.73554992675781
+
+Objects:
+person: 97.1%    (left_x: 298   top_y:  237   width:   139   height:  189)
+FPS: 14
+Midpoint X:  293.9375915527344
+Midpoint Y:  234.55320739746094
+width range -106.06240844726562
+pan servo angle 58.22479792588074
+height range -65.44679260253906
+
+Objects:
+person: 94.24%    (left_x: 294   top_y:  235   width:   141   height:  199)
+FPS: 14
+Midpoint X:  289.47344970703125
+Midpoint Y:  232.95797729492188
+width range -110.52655029296875
+pan servo angle 59.10324843678512
+height range -67.04202270507812
+
+Objects:
+person: 88.83%    (left_x: 289   top_y:  233   width:   151   height:  216)
+FPS: 14
+Midpoint X:  284.009765625
+Midpoint Y:  218.43386840820312
+width range -115.990234375
+pan servo angle 59.98169894768949
+height range -81.56613159179688
+
+Objects:
+person: 98.51%    (left_x: 284   top_y:  218   width:   135   height:  189)
+FPS: 14
+Midpoint X:  271.2385559082031
+Midpoint Y:  202.66000366210938
+width range -128.76144409179688
+pan servo angle 60.86014945859387
+height range -97.33999633789062
+
+Objects:
+person: 98.24%    (left_x: 271   top_y:  203   width:   112   height:  198)
+FPS: 14
+Midpoint X:  268.5521240234375
+Midpoint Y:  196.7642364501953
+width range -131.4478759765625
+pan servo angle 61.738599969498246
+height range -103.23576354980469
+
+Objects:
+person: 95.95%    (left_x: 269   top_y:  197   width:   112   height:  204)
+FPS: 14
+Midpoint X:  270.7996520996094
+Midpoint Y:  193.720703125
+width range -129.20034790039062
+pan servo angle 62.617050480402625
+height range -106.279296875
+
+Objects:
+person: 97.57%    (left_x: 271   top_y:  194   width:   122   height:  209)
+FPS: 14
+Midpoint X:  271.65069580078125
+Midpoint Y:  189.01707458496094
+width range -128.34930419921875
+pan servo angle 63.495500991307004
+height range -110.98292541503906
+
+Objects:
+person: 98.18%    (left_x: 272   top_y:  189   width:   126   height:  208)
+FPS: 14
+Midpoint X:  276.312255859375
+Midpoint Y:  177.78770446777344
+width range -123.687744140625
+pan servo angle 64.37395150221138
+height range -122.21229553222656
+
+Objects:
+person: 78.6%    (left_x: 276   top_y:  178   width:   116   height:  207)
+FPS: 14
+Midpoint X:  273.24560546875
+Midpoint Y:  169.8096923828125
+width range -126.75439453125
+pan servo angle 65.25240201311576
+height range -130.1903076171875
+
+Objects:
+person: 83.51%    (left_x: 273   top_y:  170   width:   135   height:  207)
+FPS: 14
+Midpoint X:  276.0031433105469
+Midpoint Y:  160.75576782226562
+width range -123.99685668945312
+pan servo angle 66.13085252402014
+height range -139.24423217773438
+
+Objects:
+person: 91.75%    (left_x: 276   top_y:  161   width:   112   height:  214)
+FPS: 14
+Midpoint X:  271.4082336425781
+Midpoint Y:  147.33523559570312
+width range -128.59176635742188
+pan servo angle 67.0093030349245
+height range -152.66476440429688
+
+Objects:
+person: 98.31%    (left_x: 271   top_y:  147   width:   125   height:  217)
+FPS: 14
+Midpoint X:  272.0284729003906
+Midpoint Y:  141.8861541748047
+width range -127.97152709960938
+pan servo angle 67.88775354582889
+height range -158.1138458251953
+
+Objects:
+person: 99.16%    (left_x: 272   top_y:  142   width:   118   height:  203)
+FPS: 14
+Midpoint X:  270.55841064453125
+Midpoint Y:  132.35153198242188
+width range -129.44158935546875
+pan servo angle 68.76620405673326
+height range -167.64846801757812
+
+Objects:
+person: 98.53%    (left_x: 271   top_y:  132   width:   110   height:  187)
+FPS: 14
+Midpoint X:  267.15948486328125
+Midpoint Y:  130.49179077148438
+width range -132.84051513671875
+pan servo angle 69.64465456763764
+height range -169.50820922851562
+
+Objects:
+person: 98.76%    (left_x: 267   top_y:  130   width:   111   height:  194)
+FPS: 14
+Midpoint X:  268.0453186035156
+Midpoint Y:  125.08602142333984
+width range -131.95468139648438
+pan servo angle 70.52310507854202
+height range -174.91397857666016
+
+Objects:
+person: 99.65%    (left_x: 268   top_y:  125   width:   123   height:  188)
+FPS: 14
+Midpoint X:  270.9188232421875
+Midpoint Y:  123.57982635498047
+width range -129.0811767578125
+pan servo angle 71.4015555894464
+height range -176.42017364501953
+
+Objects:
+person: 99.53%    (left_x: 271   top_y:  124   width:   128   height:  196)
+FPS: 14
+Midpoint X:  271.1551513671875
+Midpoint Y:  120.05393981933594
+width range -128.8448486328125
+pan servo angle 72.28000610035078
+height range -179.94606018066406
+
+Objects:
+person: 99.24%    (left_x: 271   top_y:  120   width:   133   height:  196)
+FPS: 14
+Midpoint X:  274.5334777832031
+Midpoint Y:  111.5099105834961
+width range -125.46652221679688
+pan servo angle 73.15845661125515
+height range -188.4900894165039
+
+Objects:
+person: 99.32%    (left_x: 275   top_y:  112   width:   114   height:  206)
+FPS: 14
+Midpoint X:  272.0728759765625
+Midpoint Y:  105.84358978271484
+width range -127.9271240234375
+pan servo angle 74.03690712215952
+height range -194.15641021728516
+
+Objects:
+person: 98.89%    (left_x: 272   top_y:  106   width:   119   height:  179)
+FPS: 14
+Midpoint X:  282.1379089355469
+Midpoint Y:  109.63256072998047
+width range -117.86209106445312
+pan servo angle 74.9153576330639
+height range -190.36743927001953
+
+Objects:
+person: 99.21%    (left_x: 282   top_y:  110   width:   108   height:  208)
+FPS: 14
+Midpoint X:  294.2131652832031
+Midpoint Y:  107.77195739746094
+width range -105.78683471679688
+pan servo angle 75.79380814396828
+height range -192.22804260253906
+
+Objects:
+person: 99.38%    (left_x: 294   top_y:  108   width:   119   height:  184)
+FPS: 14
+Midpoint X:  304.32818603515625
+Midpoint Y:  105.2424087524414
+width range -95.67181396484375
+pan servo angle 76.67225865487265
+height range -194.7575912475586
+
+Objects:
+person: 99.13%    (left_x: 304   top_y:  105   width:   114   height:  194)
+FPS: 14
+Midpoint X:  316.71051025390625
+Midpoint Y:  102.6895980834961
+width range -83.28948974609375
+pan servo angle 77.55070916577704
+height range -197.3104019165039
+
+Objects:
+person: 99.5%    (left_x: 317   top_y:  103   width:   109   height:  206)
